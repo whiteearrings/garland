@@ -1,0 +1,79 @@
+.ui-helper-hidden-accessible { display:none; }
+
+ui-autocomplete span.hl_results {background-color: #ffff66;z-index:1000;}
+.ui-autocomplete-loading {} //the object while it's loading in the event of Ajax, in this case would not need this one
+.ui-autocomplete {
+	margin-top:50px;
+	list-style-type:none;
+	z-index:1000;
+    max-height: 250px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    padding-right: 5px;
+}
+
+.ui-autocomplete li {
+font-size: 16px;
+
+}
+
+.ui-menu-item:hover{
+/*background-color: blue;*/
+background-color: rgba(255,255,255,0.9);
+min-height:40px;
+color:white;
+box-shadow:0px 0px 6px #300;
+/*background-color:;*/
+
+}
+
+.ui-corner-all a{
+font-size: 16px; 
+color: #8b1010;
+margin:5px;
+margin-left: 30px; 
+
+}
+
+.ui-menu-item{
+-webkit-transition: min-height 0.3s;
+transition: min-height 0.3s;
+
+color: #8b1010;
+border-color:#A00000;
+/*border:solid;*/
+border-width:1px;
+min-height: 30px;
+margin-top: 1px;
+z-index:1000;
+width:40%;;
+background-color:rgba(255,255,255,0.7);
+border-radius:3px;
+box-shadow:0px 0px 2px #300;
+}
+
+
+
+.ui-front{
+	list-style-type:none;
+	z-index:2000;
+	
+}
+
+html .ui-autocomplete {
+    height: 250px;
+	z-index:2000;
+}
+
+.logoback
+{
+	background-color:darkred;
+}
+
+.mynav
+{
+	border-bottom:solid;
+	border-color:white;
+	border-bottom-width:thick;
+	box-shadow:0px 2px 20px #000; 
+}

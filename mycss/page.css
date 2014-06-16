@@ -1,0 +1,83 @@
+.game-dp
+{
+	width : 90%;
+	height : 90%;
+	margin : 5%;
+	border-radius : 3px; 
+}
+
+.myleft
+{
+	text-align : center;
+}
+
+#desmatter
+{
+	color : #5b0000;
+}
+
+#starvalue
+{
+	position : absolute;
+	left : 34px;
+	top : 63px; /*28 margin + 35*/
+	color : white;
+}
+
+#gname
+{
+	margin-top : 50px;
+	color : darkred;
+	font-family : ubuntu;
+	font-weight : 700;
+	
+	/*font-style : italic;*/
+	font-size : 40px; 
+}
+
+.thumb
+{
+	display : inline-block;
+	margin : -5px;
+	margin-top : 14px; 
+	float : none;
+}
+
+.thumbs
+{
+	margin-left : 20px;
+	margin-right : 20px;
+	border-radius : 3px;
+	overflow-x:scroll;
+    overflow-y:hidden;
+    white-space: nowrap;
+	max-height : 214px;
+	/*border : solid;*/
+	background-color : white;
+}
+
+.esrb
+{
+	width : 100px; 
+}
+
+.playoverlay
+{
+	position : absolute;
+	left : 40%;
+	top : 33%;
+	width : 30px;
+}
+
+.bigstar
+{
+	margin-top : 28px;
+	font-size : 50px;
+}
+
+.mypagemenu
+{
+	float : right;
+}
+
+.info
