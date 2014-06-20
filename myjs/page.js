@@ -62,7 +62,24 @@ $(document).ready(function(){
 });
 
 
+//---------------------- Youtube --------------------------------------------------
 
+function embed(id)
+{
+	var ob = document.getElementById("vid-container");
+	ob.innerHTML = '<iframe id="you-vid" width="640" height="360" src="//www.youtube.com/embed/' + id + '" frameborder="0" allowfullscreen></iframe>';
+	document.getElementById("you-overlay").style.display = "block";
+	var iframe = document.getElementById("you-vid");
+	iframe.postMessage('{"event":"command","func":"' + "playVideo" + '","args":""}', '*');
+}
+
+function removeEmbed()
+{
+	document.getElementById("you-overlay").style.display = "none";
+	var iframe = document.getElementById("you-vid").contentWindow;
+	iframe.postMessage('{"event":"command","func":"' + "pauseVideo" + '","args":""}', '*');
+	document.getElementById("vid-container").innerHTML='';
+}
 
 
 

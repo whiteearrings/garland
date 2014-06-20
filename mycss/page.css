@@ -19,9 +19,48 @@
 .platformimg
 {
 	margin-top : 10px;
-	max-width : 100%;
+	max-width : 40px;
+	float : right;
 	/*height : 30px;*/
 	/*width : 20px;*/
+}
+
+.plat
+{
+
+	background-color : #bba468;
+}
+
+#vid-container
+{
+	text-align : center;
+	width : auto;
+	margin : 20%;
+	margin-right : 24%; 
+	margin-left : 24%; 
+}
+
+.you-overlay
+{
+	background-color : rgba(0,0,0,0.6);
+	width : 100%;
+	height : 100%;
+	position : fixed;
+	top : 0px;
+	left : 0px;
+	
+	
+}
+
+.platform
+{
+	font-size : 15px;
+	font-weight : 700;
+	margin : 1px;
+	margin-top : 5px;
+	border : solid;
+	border-width : 2px;
+	border-radius : 10px;
 }
 
 #desmatter

@@ -48,6 +48,17 @@
 		<div class="row">
 			<h3 class="col-md-6 col-sm-6 col-lg-6" id="starcontainer">
 			</h3>
+			<div class="col-md-6 col-sm-6 col-lg-6">
+				
+				<span class="label plat">PC</span>
+				<span class="label plat">PS3</span>
+				<span class="label plat">PS4</span>
+				<span class="label plat">Xbox</span>
+				<!--span class="platform">PC</span>
+				<span class="platform">Xbox</span>
+				<span class="platform">PS4</span>
+				<span class="platform">PS3</span-->
+			</div>
 			
 		</div>
 		
@@ -55,7 +66,7 @@
 		<br/>
 		<!--Container for Content-->
 		<div class="row" id="content">
-			<div class="col-md-6 col-sm-6 col-lg-6" style="text-align:justify">
+			<div class="col-md-9 col-sm-9 col-lg-9" style="text-align:justify">
 				
 				<label class="info">Developpers : <span id="input-dev"><a href="">Rockstar Games</a></span></label><br/>
 				<label class="info">Publishers : <span id="input-pub"><a href="">Rockstar Games</a></span></label><br/>
@@ -70,16 +81,15 @@
 				
 				</span>
 			</div>
-			
-			<div class="col-md-2 col-sm-2 col-lg-2" >
-				<img class="platformimg" src="images/Xbox-logo.png"/>
-				<img class="platformimg" src="images/PS2-logo.png"/>
-				<img class="platformimg" src="images/PS3-logo.png"/>
-				<img class="platformimg" src="images/PS4-logo.png"/>
-				<img class="platformimg" src="images/PC-logo.png"/>
-			</div>
 			<div class="col-md-3 col-sm-3 col-lg-3" >
 				<img src="images/ESRB_M.png" class="esrb"></img>
+				<!--div class="col-md-12 col-sm-12 col-lg-12" >
+					<img class="platformimg" src="images/Xbox-logo.png"/>
+					<img class="platformimg" src="images/PS2-logo.png"/>
+					<img class="platformimg" src="images/PS3-logo.png"/>
+					<img class="platformimg" src="images/PS4-logo.png"/>
+					<img class="platformimg" src="images/PC-logo.png"/>
+				</div-->
 			</div>
 		</div>
 		
@@ -92,13 +102,13 @@
 	<div class="row">
 		<div class="col-md-12 col-sm-12 col-lg-12">
 			<div class="row thumbs">
-				<div class="col-xs-6 col-md-4  thumb">
+				<div class="col-xs-6 col-md-4  thumb" onclick="embed('hvoD7ehZPcM');">
 					<a href="#" class="thumbnail">
 						<img src="http://img.youtube.com/vi/hvoD7ehZPcM/mqdefault.jpg"/>
 						<img src="images/play.png" class="playoverlay" ></img>
 					</a>
 				</div>
-				<div class="col-xs-6 col-md-4 thumb">
+				<div class="col-xs-6 col-md-4 thumb" onclick="embed('N-xHcvug3WI');">
 					<a href="#" class="thumbnail">
 						<!--img data-src="js/holder.js/200%x360" src="http://img.youtube.com/vi/N-xHcvug3WI/mqdefault.jpg"/-->
 						<img src="http://img.youtube.com/vi/N-xHcvug3WI/mqdefault.jpg"/>
@@ -126,6 +136,15 @@
 	
 </div>
 
+
+
+<!-------------Youtube window-------------------------------------------->
+
+<div id="you-overlay" class="you-overlay" style="display:none" onclick="removeEmbed();">
+	<div id="vid-container" class="well" onclick = "return false">
+		
+	</div>
+</div>
 
 <!--script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script-->
 
