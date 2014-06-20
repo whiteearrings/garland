@@ -48,9 +48,22 @@ function set()
 
 
 
+
+
+
+
+
 $(document).ready(function(){
 	printStars(stars);
 	//$('.mystar').click( clic );
 	set();
+	//links();
 		//console.log("ol");
 });
+
+
+
+
+
+
+
