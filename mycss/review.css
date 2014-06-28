@@ -9,3 +9,17 @@
 	font-size : 30px; 
 }
 
+.post
+{
+	float : right;
+	/*height : 14px;*/
+	margin-top : 5px;
+	margin : 2px;
+}
+#postas
+{
+	color : grey;
+	float : right;
+	margin : 13px;
+	margin-bottom : 2px;
+}

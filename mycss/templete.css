@@ -16,6 +16,7 @@ body
 }
 
 
+
 span
 {
 	color:#5b0000;
@@ -26,3 +27,25 @@ body
 	font-family : ubuntu;
 	color : #5b0000;
 }
+
+
+
+
+
+
+.pagemain {
+    -webkit-animation: myfirst 0.5s; /* Chrome, Safari, Opera */
+    animation: myfirst 0.5s;
+}
+
+/* Chrome, Safari, Opera */
+@-webkit-keyframes myfirst {
+    from {opacity: 0;}
+    to {opacity: 1;}
+}
+
+/* Standard syntax */
+@keyframes myfirst {
+    from {opacity: 0;}
+    to {opacity: 1;}
+} 
