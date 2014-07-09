@@ -1,0 +1,1912 @@
+  <!DOCTYPE html><html lang="en" data-cast-api-enabled="true"><head><script>var ytcsi = {gt: function(n) {n = (n || '') + 'data_';return ytcsi[n] || (ytcsi[n] = {tick: {},span: {},info: {}});},tick: function(l, t, n) {ytcsi.gt(n).tick[l] = t || +new Date();},span: function(l, s, n) {ytcsi.gt(n).span[l] = (typeof s == 'number') ? s :+new Date() - ytcsi.data_.tick[l];},info: function(k, v, n) {ytcsi.gt(n).info[k] = v;}};ytcsi.perf = window.performance || window.mozPerformance ||window.msPerformance || window.webkitPerformance;ytcsi.tick('_start', ytcsi.perf ? ytcsi.perf.timing.responseStart : null);if (document.webkitVisibilityState == 'prerender') {ytcsi.info('prerender', 1);document.addEventListener('webkitvisibilitychange', function() {ytcsi.tick('_start');}, false);}</script>  <script>
+    try {window.ytbuffer = {};ytbuffer.handleClick = function(e) {var element = e.target || e.srcElement;while (element.parentElement) {if (element.className.match(/(^| )yt-can-buffer( |$)/)) {window.ytbuffer = {bufferedClick: e};element.className += ' yt-is-buffered';break;}element = element.parentElement;}};if (document.addEventListener) {document.addEventListener('click', ytbuffer.handleClick);} else {document.attachEvent('onclick', ytbuffer.handleClick);}} catch(e) {}
+    (function(){function b(k,g){var a,d;g?a=!0:document.getElementById("c4-custom-tab-iframe")?(document.body.className+=" exp-wider-browse",a=!0):a=!1;a?(a=1056,d=1262):(a=951,d=1136);var c=(window.innerWidth||document.documentElement.clientWidth)-21-50;1251<=(window.innerWidth||document.documentElement.clientWidth)&&k&&(c-=230);return c>=d?"content-snap-width-3":c>=a?"content-snap-width-2":"content-snap-width-1"};function e(k,g,a,d){var c=document.getElementsByTagName("html")[0],h=[c.className];k&&1251<=(window.innerWidth||document.documentElement.clientWidth)&&(h.push("guide-pinned"),g&&h.push("show-guide"));a&&h.push(" ",b(g,d));c.className=h.join(" ")}var f=["yt","www","masthead","sizing","runBeforeBodyIsReady"],l=this;f[0]in l||!l.execScript||l.execScript("var "+f[0]);for(var m;f.length&&(m=f.shift());)f.length||void 0===e?l[m]?l=l[m]:l=l[m]={}:l[m]=e;})();
+yt.www.masthead.sizing.runBeforeBodyIsReady(true,true,false,false);
+  </script>
+
+
+
+        <script src="//s.ytimg.com/yts/jsbin/www-scheduler-vflKNUgKf.js" name="www-scheduler"></script>
+
+
+  
+  <link rel="stylesheet" href="//s.ytimg.com/yts/cssbin/www-core-vflwyjJeQ.css" name="www-core">
+<script>if (window.ytcsi) {window.ytcsi.tick("ce", null, '');}</script>  
+
+    
+<title>Grand Theft Auto V trailer - YouTube</title><link rel="search" type="application/opensearchdescription+xml" href="http://www.youtube.com/opensearch?locale=en_US" title="YouTube Video Search"><link rel="shortcut icon" href="https://s.ytimg.com/yts/img/favicon-vfldLzJxy.ico" type="image/x-icon">     <link rel="icon" href="//s.ytimg.com/yts/img/favicon_32-vflWoMFGx.png" sizes="32x32"><link rel="alternate" media="handheld" href="https://m.youtube.com/results?search_query=Grand+Theft+Auto+V+trailer"><link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.youtube.com/results?search_query=Grand+Theft+Auto+V+trailer"><meta name="description" content="Share your videos with friends, family, and the world"><meta name="keywords" content="video, sharing, camera phone, video phone, free, upload">  <link rel="stylesheet" href="//s.ytimg.com/yts/cssbin/www-pageframe-vflVaqdV1.css" name="www-pageframe">
+  <link rel="stylesheet" href="//s.ytimg.com/yts/cssbin/www-guide-vflT0UfF8.css" name="www-guide">
+    <link rel="stylesheet" href="//s.ytimg.com/yts/cssbin/www-results-vflvASa9H.css" name="www-results">
+
+<script>if (window.ytcsi) {window.ytcsi.tick("cl", null, '');}</script></head>
+    <body dir="ltr" class="  ltr       site-center-aligned site-as-giant-card guide-pinning-enabled appbar-hidden     not-nirvana-dogfood  not-watch8    delayed-frame-styles-not-in  " id="body">
+
+  <div id="early-body">    <iframe id="pyv-iframe-search" style="display:none;" src=""></iframe><script>if (window.ytcsi) {window.ytcsi.tick("resultspredclk", null, '');}var yt = yt || {};yt.www = yt.www || {};yt.www.ads = yt.www.ads || {};yt.www.ads.pyvsearch = yt.www.ads.pyvsearch || {};yt.www.ads.pyvsearch.searchTopAdsFromAfc = null;yt.www.ads.pyvsearch.pageJsInit = false;yt.www.ads.pyvsearch.requestAfcAd = function() {var iframeContent = "  \u003cscript\u003e\n    parent.yt.www.ads.pyvsearch.pyvSearchTopAfcCbkWrapper = function(ads) {\n      if (parent.yt.www.ads.pyvsearch.pageJsInit) {\n        parent.yt.www.ads.pyvsearch.pyvSearchTopAfcCallback(ads);\n      } else {\n        parent.yt.www.ads.pyvsearch.searchTopAdsFromAfc = ads;\n      }\n    };\n\n    window['google_ad_client'] = 'ca-pub-6219811747049371';\n    window['google_ad_block'] = '3';\n    window['google_max_num_ads'] = 2;\n    window['google_ad_output'] = 'js';\n    window['google_ad_type'] = 'text';\n    window['google_loeid'] = \"936112\";\n    window['google_only_pyv_ads'] = true;\n    window['google_page_url'] = parent.document.location.href;\n    window['google_ad_channel'] = \"PyvSearchAfcCpm+PyvWatchNoAdX+PyvSearchAfcNewTemplate+ytdevice_1\";\n    window['google_kw_type'] = 'broad';\n    window['google_kw'] = \"grand theft auto v trailer\";\n      window['google_language'] = \"en\";\n\n\n\n    window['google_ad_request_done'] = parent.yt.www.ads.pyvsearch.pyvSearchTopAfcCbkWrapper;\n  \u003c\/script\u003e\n  \u003cscript s\u0072c=\"\/\/pagead2.googlesyndication.com\/pagead\/show_ads.js\"\u003e\u003c\/script\u003e\n";yt.www.ads.pyvsearch.adRequestStartTime = new Date().getTime();var frame = document.getElementById('pyv-iframe-search');var iframeDocument =frame.contentDocument || frame.contentWindow.document;iframeDocument.open();var content = '<!DOCTYPE html><html><head></head><body>' +iframeContent + '</body></html>';iframeDocument.write(content);iframeDocument.close();};clearTimeout(yt.www.ads.pyvsearch.timerId_);yt.www.ads.pyvsearch.timerId_ = setTimeout(yt.www.ads.pyvsearch.requestAfcAd, 5);</script>
+</div>
+  <div id="body-container"><form name="logoutForm" method="POST" action="/logout"><input type="hidden" name="action_logout" value="1"></form><div id="masthead-positioner">  
+  <div id="yt-masthead-container" class="yt-grid-box yt-base-gutter"><div id="yt-masthead" class=""><div class="yt-masthead-logo-container ">    <a id="logo-container" href="/" title="YouTube home" class="     spf-link 
+"><img id="logo" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="YouTube home"><span class="content-region">IN</span></a>
+  <div id="appbar-guide-button-container">
+    <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text yt-uix-button-empty yt-uix-button-has-icon appbar-guide-toggle appbar-guide-clickable-ancestor" type="button" onclick=";return false;" id="appbar-guide-button" aria-label="Guide"><span class="yt-uix-button-icon-wrapper"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-icon yt-uix-button-icon-appbar-guide"></span><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"></button>
+    <div id="appbar-guide-button-notification-check" class="yt-valign">
+      <img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="appbar-guide-notification-icon yt-valign-content">
+    </div>
+  </div>
+  <div id="appbar-main-guide-notification-container"></div>
+</div><div id="yt-masthead-signin"><span id="appbar-onebar-upload-group" class="yt-uix-button-group"><a href="//www.youtube.com/upload" class="yt-uix-button   yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default" data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;feature=mhsb" id="upload-btn"><span class="yt-uix-button-content">Upload </span></a></span><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-primary" type="button" onclick=";window.location.href=this.getAttribute(&#39;href&#39;);return false;" href="https://accounts.google.com/ServiceLogin?service=youtube&amp;hl=en&amp;uilel=3&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3Dsign_in_button%26hl%3Den%26next%3D%252Fresults%253Fsearch_query%253DGrand%252BTheft%252BAuto%252BV%252Btrailer&amp;passive=true"><span class="yt-uix-button-content">Sign in </span></button></div><div id="yt-masthead-content"><form id="masthead-search" class="search-form consolidated-form" action="/results" onsubmit="if (_gel(&#39;masthead-search-term&#39;).value == &#39;&#39;) return false;"><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default search-btn-component search-button" type="submit" onclick="if (_gel(&#39;masthead-search-term&#39;).value == &#39;&#39;) return false; _gel(&#39;masthead-search&#39;).submit(); return false;;return true;" dir="ltr" tabindex="2" id="search-btn"><span class="yt-uix-button-content">Search </span></button><div id="masthead-search-terms" class="masthead-search-terms-border" dir="ltr"><label><input id="masthead-search-term" autocomplete="off"  class="search-term yt-uix-form-input-bidi" name="search_query" value="Grand Theft Auto V trailer" type="text" tabindex="1" title="Search"></label></div></form></div></div></div>
+    
+    <div id="masthead-appbar-container" class="clearfix"><div id="masthead-appbar"><div id="appbar-content" class=""></div></div></div>
+
+</div><div id="masthead-positioner-height-offset"></div><div id="page-container"><div id="page" class="  search  branded-page-v2-secondary-column-wide  no-flex clearfix"><div id="guide" class="yt-scrollbar">      <div id="appbar-guide-menu" class="appbar-menu appbar-guide-menu-layout appbar-guide-clickable-ancestor yt-uix-scroller">
+    <div id="guide-container" class="vve-check" data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CFIQ_h4">
+        <div class="guide-module-content yt-scrollbar">
+    <ul class="guide-toplevel">
+            <li class="guide-section vve-check"
+    data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CFMQ5isoAA"
+    data-visibility-tracking="">
+    <div class="guide-item-container personal-item">
+      
+      <ul class="guide-user-links yt-uix-tdl yt-box">
+              <li class="vve-check guide-channel guide-notification-item overflowable-list-item " id="what_to_watch-guide-item"
+      data-visibility-tracking="">
+      
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-link   "
+    href="/"
+    title="What to Watch"
+    data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;feature=g-system&amp;ved=CFQQtSwoAA"
+    data-visibility-tracking=""
+    data-external-id="what_to_watch"
+    data-serialized-endpoint="0qDduQEREg9GRXdoYXRfdG9fd2F0Y2g%3D"
+  >
+    <span class="yt-valign-container">
+        <img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="thumb guide-what-to-watch-icon">
+        <span class="display-name  no-count">
+          <span>
+            What to Watch
+          </span>
+        </span>
+    </span>
+  </a>
+
+  </li>
+
+      </ul>
+    </div>
+      <hr class="guide-section-separator">
+  </li>
+
+            <li class="guide-section vve-check"
+    data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CFUQ5isoAQ"
+    data-visibility-tracking="">
+    <div class="guide-item-container personal-item">
+          <h3>
+      Best of YouTube
+    </h3>
+
+      <ul class="guide-user-links yt-uix-tdl yt-box">
+              <li class="vve-check guide-channel guide-notification-item overflowable-list-item " id="UCAh9DbAZny_eoGFsYlH2JZw-guide-item"
+      data-visibility-tracking="">
+      
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-link   "
+    href="/channel/UCAh9DbAZny_eoGFsYlH2JZw"
+    title="Popular on YouTube"
+    data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;feature=g-channel&amp;ved=CFYQtSwoAA"
+    data-visibility-tracking=""
+    data-external-id="UCAh9DbAZny_eoGFsYlH2JZw"
+    data-serialized-endpoint="0qDduQEaEhhVQ0FoOURiQVpueV9lb0dGc1lsSDJKWnc%3D"
+  >
+    <span class="yt-valign-container">
+        <span class="thumb">    <span class="video-thumb  yt-thumb yt-thumb-20"
+      >
+      <span class="yt-thumb-square">
+        <span class="yt-thumb-clip">
+          <img aria-hidden="true" data-thumb="//i1.ytimg.com/i/Ah9DbAZny_eoGFsYlH2JZw/1.jpg" alt="" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="20"  height="20" >
+          <span class="vertical-align"></span>
+        </span>
+      </span>
+    </span>
+</span>
+        <span class="display-name  no-count">
+          <span>
+            Popular on YouTube
+          </span>
+        </span>
+    </span>
+  </a>
+
+  </li>
+
+              <li class="vve-check guide-channel guide-notification-item overflowable-list-item " id="UC-9-kyTW8ZkZNDHQJ6FgpwQ-guide-item"
+      data-visibility-tracking="">
+      
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-link   "
+    href="/channel/UC-9-kyTW8ZkZNDHQJ6FgpwQ"
+    title="Music"
+    data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;feature=g-channel&amp;ved=CFcQtSwoAQ"
+    data-visibility-tracking=""
+    data-external-id="UC-9-kyTW8ZkZNDHQJ6FgpwQ"
+    data-serialized-endpoint="0qDduQEaEhhVQy05LWt5VFc4WmtaTkRIUUo2Rmdwd1E%3D"
+  >
+    <span class="yt-valign-container">
+        <span class="thumb">    <span class="video-thumb  yt-thumb yt-thumb-20"
+      >
+      <span class="yt-thumb-square">
+        <span class="yt-thumb-clip">
+          <img aria-hidden="true" data-thumb="//i1.ytimg.com/i/-9-kyTW8ZkZNDHQJ6FgpwQ/1.jpg" alt="" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="20"  height="20" >
+          <span class="vertical-align"></span>
+        </span>
+      </span>
+    </span>
+</span>
+        <span class="display-name  no-count">
+          <span>
+            Music
+          </span>
+        </span>
+    </span>
+  </a>
+
+  </li>
+
+              <li class="vve-check guide-channel guide-notification-item overflowable-list-item " id="UCEgdi0XIXXZ-qJOFPf4JSKw-guide-item"
+      data-visibility-tracking="">
+      
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-link   "
+    href="/channel/UCEgdi0XIXXZ-qJOFPf4JSKw"
+    title="Sports"
+    data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;feature=g-channel&amp;ved=CFgQtSwoAg"
+    data-visibility-tracking=""
+    data-external-id="UCEgdi0XIXXZ-qJOFPf4JSKw"
+    data-serialized-endpoint="0qDduQEaEhhVQ0VnZGkwWElYWFotcUpPRlBmNEpTS3c%3D"
+  >
+    <span class="yt-valign-container">
+        <span class="thumb">    <span class="video-thumb  yt-thumb yt-thumb-20"
+      >
+      <span class="yt-thumb-square">
+        <span class="yt-thumb-clip">
+          <img aria-hidden="true" data-thumb="//i1.ytimg.com/i/Egdi0XIXXZ-qJOFPf4JSKw/1.jpg" alt="" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="20"  height="20" >
+          <span class="vertical-align"></span>
+        </span>
+      </span>
+    </span>
+</span>
+        <span class="display-name  no-count">
+          <span>
+            Sports
+          </span>
+        </span>
+    </span>
+  </a>
+
+  </li>
+
+              <li class="vve-check guide-channel guide-notification-item overflowable-list-item " id="UCOpNcN46UbXVtpKMrmU4Abg-guide-item"
+      data-visibility-tracking="">
+      
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-link   "
+    href="/channel/UCOpNcN46UbXVtpKMrmU4Abg"
+    title="Gaming"
+    data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;feature=g-channel&amp;ved=CFkQtSwoAw"
+    data-visibility-tracking=""
+    data-external-id="UCOpNcN46UbXVtpKMrmU4Abg"
+    data-serialized-endpoint="0qDduQEaEhhVQ09wTmNONDZVYlhWdHBLTXJtVTRBYmc%3D"
+  >
+    <span class="yt-valign-container">
+        <span class="thumb">    <span class="video-thumb  yt-thumb yt-thumb-20"
+      >
+      <span class="yt-thumb-square">
+        <span class="yt-thumb-clip">
+          <img aria-hidden="true" data-thumb="//i1.ytimg.com/i/OpNcN46UbXVtpKMrmU4Abg/1.jpg" alt="" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="20"  height="20" >
+          <span class="vertical-align"></span>
+        </span>
+      </span>
+    </span>
+</span>
+        <span class="display-name  no-count">
+          <span>
+            Gaming
+          </span>
+        </span>
+    </span>
+  </a>
+
+  </li>
+
+              <li class="vve-check guide-channel guide-notification-item overflowable-list-item " id="UCRKJ0Dhva6W6a5piLKPGuKA-guide-item"
+      data-visibility-tracking="">
+      
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-link   "
+    href="/channel/UCRKJ0Dhva6W6a5piLKPGuKA"
+    title="Movies"
+    data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;feature=g-channel&amp;ved=CFoQtSwoBA"
+    data-visibility-tracking=""
+    data-external-id="UCRKJ0Dhva6W6a5piLKPGuKA"
+    data-serialized-endpoint="0qDduQEaEhhVQ1JLSjBEaHZhNlc2YTVwaUxLUEd1S0E%3D"
+  >
+    <span class="yt-valign-container">
+        <span class="thumb">    <span class="video-thumb  yt-thumb yt-thumb-20"
+      >
+      <span class="yt-thumb-square">
+        <span class="yt-thumb-clip">
+          <img aria-hidden="true" data-thumb="https://yt3.ggpht.com/-gFv0oTkvLHY/AAAAAAAAAAI/AAAAAAAAAAA/rqqBJ8XK2CQ/s88-c-k-no/photo.jpg" alt="" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="20"  height="20" >
+          <span class="vertical-align"></span>
+        </span>
+      </span>
+    </span>
+</span>
+        <span class="display-name  no-count">
+          <span>
+            Movies
+          </span>
+        </span>
+    </span>
+  </a>
+
+  </li>
+
+              <li class="vve-check guide-channel guide-notification-item overflowable-list-item " id="UCY9Jh3SK0N1SAVJi-U--Rwg-guide-item"
+      data-visibility-tracking="">
+      
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-link   "
+    href="/channel/UCY9Jh3SK0N1SAVJi-U--Rwg"
+    title="TV Shows"
+    data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;feature=g-channel&amp;ved=CFsQtSwoBQ"
+    data-visibility-tracking=""
+    data-external-id="UCY9Jh3SK0N1SAVJi-U--Rwg"
+    data-serialized-endpoint="0qDduQEaEhhVQ1k5SmgzU0swTjFTQVZKaS1VLS1Sd2c%3D"
+  >
+    <span class="yt-valign-container">
+        <span class="thumb">    <span class="video-thumb  yt-thumb yt-thumb-20"
+      >
+      <span class="yt-thumb-square">
+        <span class="yt-thumb-clip">
+          <img aria-hidden="true" data-thumb="https://yt3.ggpht.com/-QVxMDQG3JIQ/AAAAAAAAAAI/AAAAAAAAAAA/iuuJM6sO36E/s88-c-k-no/photo.jpg" alt="" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="20"  height="20" >
+          <span class="vertical-align"></span>
+        </span>
+      </span>
+    </span>
+</span>
+        <span class="display-name  no-count">
+          <span>
+            TV Shows
+          </span>
+        </span>
+    </span>
+  </a>
+
+  </li>
+
+              <li class="vve-check guide-channel guide-notification-item overflowable-list-item " id="UCvScgo6mAvbMEjszK4sSj6g-guide-item"
+      data-visibility-tracking="">
+      
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-link   "
+    href="/channel/UCvScgo6mAvbMEjszK4sSj6g"
+    title="Spotlight"
+    data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;feature=g-channel&amp;ved=CFwQtSwoBg"
+    data-visibility-tracking=""
+    data-external-id="UCvScgo6mAvbMEjszK4sSj6g"
+    data-serialized-endpoint="0qDduQEaEhhVQ3ZTY2dvNm1BdmJNRWpzeks0c1NqNmc%3D"
+  >
+    <span class="yt-valign-container">
+        <span class="thumb">    <span class="video-thumb  yt-thumb yt-thumb-20"
+      >
+      <span class="yt-thumb-square">
+        <span class="yt-thumb-clip">
+          <img aria-hidden="true" data-thumb="https://yt3.ggpht.com/-_fOHTgyA2Og/AAAAAAAAAAI/AAAAAAAAAAA/mrENVma0Tyc/s88-c-k-no/photo.jpg" alt="" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="20"  height="20" >
+          <span class="vertical-align"></span>
+        </span>
+      </span>
+    </span>
+</span>
+        <span class="display-name  no-count">
+          <span>
+            Spotlight
+          </span>
+        </span>
+    </span>
+  </a>
+
+  </li>
+
+      </ul>
+    </div>
+      <hr class="guide-section-separator">
+  </li>
+
+            <li class="guide-section vve-check"
+    data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CF0Q5isoAg"
+    data-visibility-tracking="">
+    <div class="guide-item-container personal-item">
+      
+      <ul class="guide-user-links yt-uix-tdl yt-box">
+              <li class="vve-check guide-channel guide-notification-item overflowable-list-item " id="guide_builder-guide-item"
+      data-visibility-tracking="">
+      
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-nolink   "
+    href="/channels"
+    title="Browse channels"
+    data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;feature=g-manage&amp;ved=CF4QtSwoAA"
+    data-visibility-tracking=""
+    data-external-id="guide_builder"
+    data-serialized-endpoint="0qPduQECCAE%3D"
+  >
+    <span class="yt-valign-container">
+        <img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="thumb guide-builder-icon">
+        <span class="display-name  no-count">
+          <span>
+            Browse channels
+          </span>
+        </span>
+    </span>
+  </a>
+
+  </li>
+
+      </ul>
+    </div>
+      <hr class="guide-section-separator">
+  </li>
+
+            <li class="guide-section guide-header signup-promo ">
+    <p>
+      Sign in now to see your channels and recommendations!
+    </p>
+    <div id="guide-builder-promo-buttons" class="signed-out clearfix">
+      <a href="https://accounts.google.com/ServiceLogin?service=youtube&amp;hl=en&amp;uilel=3&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3Dsign_in_promo%26hl%3Den%26next%3D%252Fresults%253Fsearch_query%253DGrand%252BTheft%252BAuto%252BV%252Btrailer&amp;passive=true" class="yt-uix-button   yt-uix-sessionlink yt-uix-button-primary yt-uix-button-size-default" data-sessionlink="ei=bMynU4isKY62ugSonoIo"><span class="yt-uix-button-content">Sign In </span></a>
+    </div>
+  </li>
+
+    </ul>
+  </div>
+
+    </div>
+  </div>
+  <div id="appbar-guide-notifications" class="hid">
+        <div id="appbar-guide-notification-watch-later-video-added">
+    <!--
+    <div class="appbar-guide-notification "><span class="appbar-guide-notification-content-wrapper yt-valign"><img class="appbar-guide-notification-icon" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif"><span class="appbar-guide-notification-text-content">Added to Watch Later</span></span></div>
+    -->
+  </div>
+
+
+    <div id="appbar-guide-notification-watch-later-video-removed">
+    <!--
+    <div class="appbar-guide-notification "><span class="appbar-guide-notification-content-wrapper yt-valign"><img class="appbar-guide-notification-icon" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif"><span class="appbar-guide-notification-text-content">Removed from Watch Later</span></span></div>
+    -->
+  </div>
+
+
+    <div id="appbar-guide-notification-subscription">
+    <!--
+    <div class="appbar-guide-notification "><span class="appbar-guide-notification-content-wrapper yt-valign"><img class="appbar-guide-notification-icon" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif"><span class="appbar-guide-notification-text-content">Subscription added</span></span></div>
+    -->
+  </div>
+
+
+    <div id="appbar-guide-notification-unsubscription">
+    <!--
+    <div class="appbar-guide-notification "><span class="appbar-guide-notification-content-wrapper yt-valign"><img class="appbar-guide-notification-icon" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif"><span class="appbar-guide-notification-text-content">Subscription removed</span></span></div>
+    -->
+  </div>
+
+
+    <div id="appbar-guide-notification-playlist-like">
+    <!--
+    <div class="appbar-guide-notification "><span class="appbar-guide-notification-content-wrapper yt-valign"><img class="appbar-guide-notification-icon" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif"><span class="appbar-guide-notification-text-content">Playlist added</span></span></div>
+    -->
+  </div>
+
+
+    <div id="appbar-guide-notification-playlist-unlike">
+    <!--
+    <div class="appbar-guide-notification "><span class="appbar-guide-notification-content-wrapper yt-valign"><img class="appbar-guide-notification-icon" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif"><span class="appbar-guide-notification-text-content">Playlist removed</span></span></div>
+    -->
+  </div>
+
+
+    <div id="appbar-guide-notification-video-like">
+    <!--
+    <div class="appbar-guide-notification "><span class="appbar-guide-notification-content-wrapper yt-valign"><img class="appbar-guide-notification-icon" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif"><span class="appbar-guide-notification-text-content">Added to Liked videos</span></span></div>
+    -->
+  </div>
+
+
+    <div id="appbar-guide-notification-video-unlike">
+    <!--
+    <div class="appbar-guide-notification "><span class="appbar-guide-notification-content-wrapper yt-valign"><img class="appbar-guide-notification-icon" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif"><span class="appbar-guide-notification-text-content">Removed from Liked videos</span></span></div>
+    -->
+  </div>
+
+
+    <div id="appbar-guide-notification-event-reminder-set">
+    <!--
+    <div class="appbar-guide-notification "><span class="appbar-guide-notification-content-wrapper yt-valign"><img class="appbar-guide-notification-icon" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif"><span class="appbar-guide-notification-text-content">You&#39;ll be reminded about this event</span></span></div>
+    -->
+  </div>
+
+
+    <div id="appbar-guide-notification-event-reminder-removed">
+    <!--
+    <div class="appbar-guide-notification "><span class="appbar-guide-notification-content-wrapper yt-valign"><img class="appbar-guide-notification-icon" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif"><span class="appbar-guide-notification-text-content">Event reminder removed</span></span></div>
+    -->
+  </div>
+
+
+  </div>
+  <div id="appbar-guide-item-templates" class="hid">
+        <div id="appbar-guide-item-template-playlist">
+      <!--
+          <li class="vve-check guide-channel guide-notification-item overflowable-list-item show-insertion-notification " id="__ID__-guide-item"
+      data-visibility-tracking="">
+      
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-nolink   "
+    href="__URL__"
+    title="__TITLE__"
+    data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;feature=g-playlists"
+    data-visibility-tracking=""
+    data-external-id="__ID__"
+    data-serialized-endpoint=""
+  >
+    <span class="yt-valign-container">
+        <img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="thumb guide-playlists-icon">
+        <span class="display-name  no-count">
+          <span>
+            __TITLE__
+          </span>
+        </span>
+    </span>
+  </a>
+
+      <div class="appbar-guide-notification guide-item-insertion-notification"><span class="appbar-guide-notification-content-wrapper yt-valign"><img class="appbar-guide-notification-icon" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif"><span class="appbar-guide-notification-text-content">__NOTIFICATION_OVERLAY_MESSAGE__</span></span></div>
+  </li>
+
+      -->
+    </div>
+    <div id="appbar-guide-item-template-mix">
+      <!--
+          <li class="vve-check guide-channel guide-notification-item overflowable-list-item show-insertion-notification " id="__ID__-guide-item"
+      data-visibility-tracking="">
+      
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-nolink   "
+    href="__URL__"
+    title="__TITLE__"
+    data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;feature=g-playlists"
+    data-visibility-tracking=""
+    data-external-id="__ID__"
+    data-serialized-endpoint=""
+  >
+    <span class="yt-valign-container">
+        <img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="thumb guide-mix-icon">
+        <span class="display-name  no-count">
+          <span>
+            __TITLE__
+          </span>
+        </span>
+    </span>
+  </a>
+
+      <div class="appbar-guide-notification guide-item-insertion-notification"><span class="appbar-guide-notification-content-wrapper yt-valign"><img class="appbar-guide-notification-icon" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif"><span class="appbar-guide-notification-text-content">__NOTIFICATION_OVERLAY_MESSAGE__</span></span></div>
+  </li>
+
+      -->
+    </div>
+    <div id="appbar-guide-item-template-channel">
+      <!--
+          <li class="vve-check guide-channel guide-notification-item overflowable-list-item show-insertion-notification " id="__ID__-guide-item"
+      data-visibility-tracking="">
+      
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-nolink   "
+    href="__URL__"
+    title="__TITLE__"
+    data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;feature=g-channel"
+    data-visibility-tracking=""
+    data-external-id="__ID__"
+    data-serialized-endpoint=""
+  >
+    <span class="yt-valign-container">
+        <span class="thumb">    <span class="video-thumb  yt-thumb yt-thumb-20"
+      >
+      <span class="yt-thumb-square">
+        <span class="yt-thumb-clip">
+          <img aria-hidden="true" alt="" src="__THUMBNAIL_URL__" width="20"  height="20" >
+          <span class="vertical-align"></span>
+        </span>
+      </span>
+    </span>
+</span>
+        <span class="display-name  no-count">
+          <span>
+            __TITLE__
+          </span>
+        </span>
+    </span>
+  </a>
+
+      <div class="appbar-guide-notification guide-item-insertion-notification"><span class="appbar-guide-notification-content-wrapper yt-valign"><img class="appbar-guide-notification-icon" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif"><span class="appbar-guide-notification-text-content">__NOTIFICATION_OVERLAY_MESSAGE__</span></span></div>
+  </li>
+
+      -->
+    </div>
+
+  </div>
+  <iframe id="appbar-guide-iframe-mask" class="appbar-guide-menu-layout"></iframe>
+
+</div><div id="alerts" class="content-alignment">  
+</div><div id="header">  
+</div><div id="player" class="  off-screen  "><div id="theater-background"></div>  <div id="player-mole-container">
+
+    <div id="player-unavailable" class="  hid  ">
+      
+    </div>
+
+      <div id="player-api" class="player-width player-height off-screen-target player-api"></div>
+
+          <script>if (window.ytcsi) {window.ytcsi.tick("cfg", null, '');}</script>
+    <script>var ytplayer = ytplayer || {};ytplayer.config = {"html5": false, "min_version": "8.0.0", "url": "https:\/\/s.ytimg.com\/yts\/swfbin\/player-vflY8S5yx\/watch_as3.swf", "url_v9as2": "https:\/\/s.ytimg.com\/yts\/swfbin\/player-vflY8S5yx\/cps.swf", "assets": {"css": "\/\/s.ytimg.com\/yts\/cssbin\/www-player-vfloV5-nU.css", "js": "\/\/s.ytimg.com\/yts\/jsbin\/html5player-en_US-vflgt97Vg.js", "html": "\/html5_player_template"}, "url_v8": "https:\/\/s.ytimg.com\/yts\/swfbin\/player-vflY8S5yx\/cps.swf", "sts": 16240, "params": {"allowscriptaccess": "always", "allowfullscreen": "true", "bgcolor": "#000000"}, "attrs": {"id": "movie_player"}, "args": {"enablejsapi": 1, "fexp": "930008,934026,934030,936112", "autoplay": "0", "cr": "IN", "hl": "en_US", "ssl": "1"}};</script>
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+<div id="content" class="  content-alignment  
+">  
+
+
+
+
+  <div class="branded-page-v2-container branded-page-base-bold-titles branded-page-v2-container-flex-width" >
+
+    <div class="branded-page-v2-col-container">
+      <div class="branded-page-v2-col-container-inner">
+        <div class="branded-page-v2-primary-col">
+          <div class="   yt-card  clearfix">
+                <div class="branded-page-v2-primary-col-header-container branded-page-v2-primary-column-content">
+      
+    </div>
+  <div class="branded-page-v2-body branded-page-v2-primary-column-content" id="gh-activityfeed">
+            <noscript>
+      <div class="yt-alert yt-alert-default yt-alert-error  ">  <div class="yt-alert-icon">
+    <img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="icon master-sprite" alt="Alert icon">
+  </div>
+<div class="yt-alert-buttons"><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-close close yt-uix-close" type="button" onclick=";return false;" data-close-parent-class="yt-alert"><span class="yt-uix-button-content">Close </span></button></div><div class="yt-alert-content" role="alert">    <span class="yt-alert-vertical-trick"></span>
+    <div class="yt-alert-message">
+            Hello, you seem to have JavaScript turned off. Please enable it to see search results properly.
+    </div>
+</div></div>
+
+  </noscript>
+
+
+
+  <div class="search-header yt-uix-expander yt-uix-expander-collapsed">
+      <div class="filter-top">
+    <div class="filter-bar-container">
+      <div class="filter-button-container">
+        <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default filter-button yt-uix-expander-head" type="button" onclick=";return false;" data-button-action="" data-button-menu-id="some-nonexistent-menu" data-button-toggle="true"><span class="yt-uix-button-content">Filters </span><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"></button>
+      </div>
+      <div class="filter-crumb-spacer"></div>
+      <p class="num-results">About <strong>2,160,000</strong> results</p>
+    </div>
+  </div>
+
+    <div id="filter-dropdown" class="yt-uix-expander-body"><div class="filter-col"><h4 class="filter-col-title">Upload date</h4><ul><li>
+  
+
+<a class="filter  spf-link "  title="Search for grand theft auto v trailer, Last hour" href="/results?filters=hour&amp;lclk=hour&amp;search_query=grand+theft+auto+v+trailer"><span class="filter-text filter-ghost">Last hour</span></a>
+</li><li>
+  
+
+<a class="filter  spf-link "  title="Search for grand theft auto v trailer, Today" href="/results?filters=today&amp;lclk=today&amp;search_query=grand+theft+auto+v+trailer"><span class="filter-text filter-ghost">Today</span></a>
+</li><li>
+  
+
+<a class="filter  spf-link "  title="Search for grand theft auto v trailer, This week" href="/results?filters=week&amp;lclk=week&amp;search_query=grand+theft+auto+v+trailer"><span class="filter-text filter-ghost">This week</span></a>
+</li><li>
+  
+
+<a class="filter  spf-link "  title="Search for grand theft auto v trailer, This month" href="/results?filters=month&amp;lclk=month&amp;search_query=grand+theft+auto+v+trailer"><span class="filter-text filter-ghost">This month</span></a>
+</li><li>
+  
+
+<a class="filter  spf-link "  title="Search for grand theft auto v trailer, This year" href="/results?filters=year&amp;lclk=year&amp;search_query=grand+theft+auto+v+trailer"><span class="filter-text filter-ghost">This year</span></a>
+</li></ul></div><div class="filter-col"><h4 class="filter-col-title">Result type</h4><ul><li>
+  
+
+<a class="filter  spf-link "  title="Search for grand theft auto v trailer, Video" href="/results?filters=video&amp;lclk=video&amp;search_query=grand+theft+auto+v+trailer"><span class="filter-text filter-ghost">Video</span></a>
+</li><li>
+  
+
+<a class="filter  spf-link "  title="Search for grand theft auto v trailer, Channel" href="/results?filters=channel&amp;lclk=channel&amp;search_query=grand+theft+auto+v+trailer"><span class="filter-text filter-ghost">Channel</span></a>
+</li><li>
+  
+
+<a class="filter  spf-link "  title="Search for grand theft auto v trailer, Playlist" href="/results?filters=playlist&amp;lclk=playlist&amp;search_query=grand+theft+auto+v+trailer"><span class="filter-text filter-ghost">Playlist</span></a>
+</li><li>
+  
+
+<a class="filter  spf-link "  title="Search for grand theft auto v trailer, Movie" href="/results?filters=movie&amp;lclk=movie&amp;search_query=grand+theft+auto+v+trailer"><span class="filter-text filter-ghost">Movie</span></a>
+</li><li>
+  
+
+<a class="filter  spf-link "  title="Search for grand theft auto v trailer, Show" href="/results?filters=show&amp;lclk=show&amp;search_query=grand+theft+auto+v+trailer"><span class="filter-text filter-ghost">Show</span></a>
+</li></ul></div><div class="filter-col"><h4 class="filter-col-title">Duration</h4><ul><li>
+  
+
+<a class="filter  spf-link "  title="Search for grand theft auto v trailer, Short (~4 minutes)" href="/results?filters=short&amp;lclk=short&amp;search_query=grand+theft+auto+v+trailer"><span class="filter-text filter-ghost">Short (~4 minutes)</span></a>
+</li><li>
+  
+
+<a class="filter  spf-link "  title="Search for grand theft auto v trailer, Long (20~ minutes)" href="/results?filters=long&amp;lclk=long&amp;search_query=grand+theft+auto+v+trailer"><span class="filter-text filter-ghost">Long (20~ minutes)</span></a>
+</li></ul></div><div class="filter-col"><h4 class="filter-col-title">Features</h4><ul><li>
+  
+
+<a class="filter  spf-link "  title="Search for grand theft auto v trailer, HD (high definition)" href="/results?filters=hd&amp;lclk=hd&amp;search_query=grand+theft+auto+v+trailer"><span class="filter-text filter-ghost">HD (high definition)</span></a>
+</li><li>
+  
+
+<a class="filter  spf-link "  title="Search for grand theft auto v trailer, CC (closed caption)" href="/results?filters=cc&amp;lclk=cc&amp;search_query=grand+theft+auto+v+trailer"><span class="filter-text filter-ghost">CC (closed caption)</span></a>
+</li><li>
+  
+
+<a class="filter  spf-link "  title="Search for grand theft auto v trailer, Creative Commons" href="/results?filters=creativecommons&amp;lclk=creativecommons&amp;search_query=grand+theft+auto+v+trailer"><span class="filter-text filter-ghost">Creative Commons</span></a>
+</li><li>
+  
+
+<a class="filter  spf-link "  title="Search for grand theft auto v trailer, 3D" href="/results?filters=3d&amp;lclk=3d&amp;search_query=grand+theft+auto+v+trailer"><span class="filter-text filter-ghost">3D</span></a>
+</li><li>
+  
+
+<a class="filter  spf-link "  title="Search for grand theft auto v trailer, Live" href="/results?filters=live&amp;lclk=live&amp;search_query=grand+theft+auto+v+trailer"><span class="filter-text filter-ghost">Live</span></a>
+</li><li>
+  
+
+<a class="filter  spf-link "  title="Search for grand theft auto v trailer, Purchased" href="/results?filters=purchased&amp;lclk=purchased&amp;search_query=grand+theft+auto+v+trailer"><span class="filter-text filter-ghost">Purchased</span></a>
+</li></ul></div><div class="filter-col"><h4 class="filter-col-title">Sort by</h4><ul><li>
+
+  
+
+<span class="filter filter-sort  spf-link  filter-selected" ><span class="filter-text ">Relevance</span></span>
+</li><li>
+
+  
+
+<a class="filter filter-sort  spf-link "  href="/results?search_sort=video_date_uploaded&amp;search_query=Grand+Theft+Auto+V+trailer"><span class="filter-text ">Upload date</span></a>
+</li><li>
+
+  
+
+<a class="filter filter-sort  spf-link "  href="/results?search_sort=video_view_count&amp;search_query=Grand+Theft+Auto+V+trailer"><span class="filter-text ">View count</span></a>
+</li><li>
+
+  
+
+<a class="filter filter-sort  spf-link "  href="/results?search_sort=video_avg_rating&amp;search_query=Grand+Theft+Auto+V+trailer"><span class="filter-text ">Rating</span></a>
+</li></ul></div></div>
+  </div>
+  <div id="results">
+    
+
+
+      <div class="pyv-afc-ads-container spf-nolink yt-section-hover-container"><div class="pyv-afc-ads-inner"><div class="pyv-afc-ads-video-template"><!--
+
+
+
+
+    <div class="yt-lockup clearfix yt-uix-tile yt-lockup-video yt-lockup-tile"
+  >
+    <div class="yt-lockup-thumbnail"
+    >
+        <a href="__url__" class="ux-thumb-wrap yt-uix-sessionlink contains-addto  spf-link "  data-sessionlink="ei=bMynU4isKY62ugSonoIo">    <span class="video-thumb  yt-thumb yt-thumb-185"
+      >
+      <span class="yt-thumb-default">
+        <span class="yt-thumb-clip">
+          <img aria-hidden="true" alt="" src="__thumbnail_url__" width="185"  >
+          <span class="vertical-align"></span>
+        </span>
+      </span>
+    </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="__video_id__"><span class="yt-uix-button-content">  <img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later">
+ </span><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"></button>
+    <span class="video-time">__length_seconds__</span>
+</a>
+
+    </div>
+    <div class="yt-lockup-content">
+          <h3 class="yt-lockup-title"><a class="yt-uix-sessionlink yt-uix-tile-link  spf-link  yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="__title__" data-sessionlink="ei=bMynU4isKY62ugSonoIo" href="__url__">__title__</a></h3>
+
+  <div class="yt-lockup-meta">
+    <ul class="yt-lockup-meta-info">
+<li><span class="yt-badge ad-badge-byline yt-badge-ad" >Ad</span>
+by <a href="__channel_url__" class="yt-uix-sessionlink yt-user-name  spf-link " data-sessionlink="ei=bMynU4isKY62ugSonoIo" dir="ltr">__channel_name__</a></li><li>__views__ views</li>    </ul>
+  </div>
+
+
+      <div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" >
+        __second_line__<br />__third_line__
+    </div>
+
+
+  
+
+  
+
+    </div>
+    
+  </div>
+
+--></div><div class="pyv-afc-ads-channel-template"><!--
+
+
+
+    <div class="yt-lockup clearfix yt-uix-tile yt-lockup-channel yt-lockup-tile"
+  >
+    <div class="yt-lockup-thumbnail"
+    >
+        <a href="__url__" class="ux-thumb-wrap yt-uix-sessionlink  spf-link " data-sessionlink="ei=bMynU4isKY62ugSonoIo">    <span class="video-thumb  yt-thumb yt-thumb-104"
+      >
+      <span class="yt-thumb-square">
+        <span class="yt-thumb-clip">
+          <img aria-hidden="true" alt="" src="__thumbnail_url__" width="104"  height="104" >
+          <span class="vertical-align"></span>
+        </span>
+      </span>
+    </span>
+</a>
+
+    </div>
+    <div class="yt-lockup-content">
+        <h3 class="yt-lockup-title"><a class="yt-uix-sessionlink yt-uix-tile-link  spf-link  yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="__title__" data-sessionlink="ei=bMynU4isKY62ugSonoIo" href="__url__">__title__</a></h3>
+<div class="yt-lockup-meta"><ul class="yt-lockup-meta-info"><li><span class="yt-badge ad-badge-byline yt-badge-ad" >Ad</span>
+by <a href="__channel_url__" class="yt-uix-sessionlink yt-user-name  spf-link " data-sessionlink="ei=bMynU4isKY62ugSonoIo" dir="ltr">__channel_name__</a></li></ul></div>    <div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">
+        __second_line__<br />__third_line__
+    </div>
+<div class="yt-lockup-badges"><ul class="item-badge-line"><li class="yt-lockup-badge-item"><span class="yt-badge " >CHANNEL</span></li></ul></div>
+    </div>
+    
+  </div>
+
+--></div></div>  <div class="yt-uix-clickcard ad-info-container">
+    <span class="yt-uix-clickcard-target " data-position="bottomleft" data-orientation="vertical">
+      <span class="ad-info-icon"></span>
+    </span>
+    <div class="yt-uix-clickcard-content">
+<p>Visit Google's <a href="http://www.google.com/settings/ads">Ad Settings</a> to learn more about how ads are targeted or to opt out of personalized ads.</p>
+    </div>
+  </div>
+</div>
+
+      <ol id="search-results" >        
+  
+
+
+
+
+    <li class="yt-lockup clearfix yt-uix-tile yt-lockup-video yt-lockup-tile"
+  >
+    <div class="yt-lockup-thumbnail"
+    >
+        <a href="/watch?v=Y0gotQ06I8I" class="ux-thumb-wrap yt-uix-sessionlink contains-addto  spf-link "  data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CAQQwBs">    <span class="video-thumb  yt-thumb yt-thumb-185"
+      >
+      <span class="yt-thumb-default">
+        <span class="yt-thumb-clip">
+          <img aria-hidden="true" alt="" src="//i1.ytimg.com/vi/Y0gotQ06I8I/mqdefault.jpg" width="185"  >
+          <span class="vertical-align"></span>
+        </span>
+      </span>
+    </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="Y0gotQ06I8I"><span class="yt-uix-button-content">  <img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later">
+ </span><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"></button>
+    <span class="video-time">7:08</span>
+</a>
+
+    </div>
+    <div class="yt-lockup-content">
+          <h3 class="yt-lockup-title"><a class="yt-uix-sessionlink yt-uix-tile-link  spf-link  yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="All 3 Official GTA V Trailers! (HQ)" data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CAMQvxs" href="/watch?v=Y0gotQ06I8I">All 3 Official GTA V Trailers! (HQ)</a></h3>
+
+  <div class="yt-lockup-meta">
+    <ul class="yt-lockup-meta-info">
+<li>
+by <a href="/channel/UCmDbgu9a6_EKXkqkX_23OLQ" class="g-hovercard yt-uix-sessionlink yt-user-name  spf-link " data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CAUQwRs" dir="ltr" data-ytid="UCmDbgu9a6_EKXkqkX_23OLQ" data-name="">La TrollUnion</a></li><li>1 year ago</li><li>1,280,671 views</li>    </ul>
+  </div>
+
+
+      <div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">
+        This is all 3 <b>GTA V trailers</b> release soo far BY ROCKSTAR GAMES. First in 2011 Second in 2012 Third in 2013 Copyright belongs ...
+    </div>
+
+
+  <div class="yt-lockup-badges"><ul class="yt-badge-list "><li class="yt-badge-item"><span class="yt-badge " >HD</span></li></ul></div>
+
+  
+
+    </div>
+    
+  </li>
+
+
+
+        
+  
+
+
+
+
+    <li class="yt-lockup clearfix yt-uix-tile yt-lockup-video yt-lockup-tile"
+  >
+    <div class="yt-lockup-thumbnail"
+    >
+        <a href="/watch?v=QkkoHAzjnUs" class="ux-thumb-wrap yt-uix-sessionlink contains-addto  spf-link "  data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CAgQwBs">    <span class="video-thumb  yt-thumb yt-thumb-185"
+      >
+      <span class="yt-thumb-default">
+        <span class="yt-thumb-clip">
+          <img aria-hidden="true" alt="" src="//i1.ytimg.com/vi/QkkoHAzjnUs/mqdefault.jpg" width="185"  >
+          <span class="vertical-align"></span>
+        </span>
+      </span>
+    </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="QkkoHAzjnUs"><span class="yt-uix-button-content">  <img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later">
+ </span><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"></button>
+    <span class="video-time">1:25</span>
+</a>
+
+    </div>
+    <div class="yt-lockup-content">
+          <h3 class="yt-lockup-title"><a class="yt-uix-sessionlink yt-uix-tile-link  spf-link  yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="Grand Theft Auto V Trailer" data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CAcQvxs" href="/watch?v=QkkoHAzjnUs">Grand Theft Auto V Trailer</a></h3>
+
+  <div class="yt-lockup-meta">
+    <ul class="yt-lockup-meta-info">
+<li>
+by <a href="/channel/UC6VcWc1rAoWdBCM0JxrRQ3A" class="g-hovercard yt-uix-sessionlink yt-user-name  spf-link " data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CAkQwRs" dir="ltr" data-ytid="UC6VcWc1rAoWdBCM0JxrRQ3A" data-name="">Rockstar Games</a></li><li>2 years ago</li><li>39,901,927 views</li>    </ul>
+  </div>
+
+
+      <div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">
+        <b>Grand Theft Auto V Trailer</b>.
+    </div>
+
+
+  <div class="yt-lockup-badges"><ul class="yt-badge-list "><li class="yt-badge-item"><span class="yt-badge " >HD</span></li></ul></div>
+
+  
+
+    </div>
+    
+  </li>
+
+
+
+        
+  
+
+
+
+
+    <li class="yt-lockup clearfix yt-uix-tile yt-lockup-video yt-lockup-tile"
+  >
+    <div class="yt-lockup-thumbnail"
+    >
+        <a href="/watch?v=s2IXGEl-T-Q" class="ux-thumb-wrap yt-uix-sessionlink contains-addto  spf-link "  data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CAwQwBs">    <span class="video-thumb  yt-thumb yt-thumb-185"
+      >
+      <span class="yt-thumb-default">
+        <span class="yt-thumb-clip">
+          <img aria-hidden="true" alt="" src="//i1.ytimg.com/vi/s2IXGEl-T-Q/mqdefault.jpg" width="185"  >
+          <span class="vertical-align"></span>
+        </span>
+      </span>
+    </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="s2IXGEl-T-Q"><span class="yt-uix-button-content">  <img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later">
+ </span><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"></button>
+    <span class="video-time">9:24</span>
+</a>
+
+    </div>
+    <div class="yt-lockup-content">
+          <h3 class="yt-lockup-title"><a class="yt-uix-sessionlink yt-uix-tile-link  spf-link  yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="GTA 5 PS4 - Analisi Trailer Ultra Motion (ITA)" data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CAsQvxs" href="/watch?v=s2IXGEl-T-Q">GTA 5 PS4 - Analisi Trailer Ultra Motion (ITA)</a></h3>
+
+  <div class="yt-lockup-meta">
+    <ul class="yt-lockup-meta-info">
+<li>
+by <a href="/channel/UC84FgUErpNY_xeAE03HUtSQ" class="g-hovercard yt-uix-sessionlink yt-user-name  spf-link " data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CA0QwRs" dir="ltr" data-ytid="UC84FgUErpNY_xeAE03HUtSQ" data-name="">Ultra AleM</a></li><li>11 hours ago</li><li>7,359 views</li>    </ul>
+  </div>
+
+
+      <div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">
+        Con un po&#39; di ritardo, torniamo ad analizzare i fantastici <b>trailer</b> che Rockstar Games rilascia. Questa volta occupiamoci della tanto ...
+    </div>
+
+
+  <div class="yt-lockup-badges"><ul class="yt-badge-list "><li class="yt-badge-item"><span class="yt-badge " >New</span></li><li class="yt-badge-item"><span class="yt-badge " >HD</span></li></ul></div>
+
+  
+
+    </div>
+    
+  </li>
+
+
+
+        
+  
+
+
+
+
+    <li class="yt-lockup clearfix yt-uix-tile yt-lockup-video yt-lockup-tile"
+  >
+    <div class="yt-lockup-thumbnail"
+    >
+        <a href="/watch?v=pBkCB1zRIx4" class="ux-thumb-wrap yt-uix-sessionlink contains-addto  spf-link "  data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CBAQwBs">    <span class="video-thumb  yt-thumb yt-thumb-185"
+      >
+      <span class="yt-thumb-default">
+        <span class="yt-thumb-clip">
+          <img aria-hidden="true" alt="" src="//i1.ytimg.com/vi/pBkCB1zRIx4/mqdefault.jpg" width="185"  >
+          <span class="vertical-align"></span>
+        </span>
+      </span>
+    </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="pBkCB1zRIx4"><span class="yt-uix-button-content">  <img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later">
+ </span><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"></button>
+    <span class="video-time">5:15</span>
+</a>
+
+    </div>
+    <div class="yt-lockup-content">
+          <h3 class="yt-lockup-title"><a class="yt-uix-sessionlink yt-uix-tile-link  spf-link  yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="Grand Theft Auto 5/GTA 5 PS4 vs PS3 Trailer Comparison" data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CA8Qvxs" href="/watch?v=pBkCB1zRIx4">Grand Theft Auto 5/GTA 5 PS4 vs PS3 Trailer Comparison</a></h3>
+
+  <div class="yt-lockup-meta">
+    <ul class="yt-lockup-meta-info">
+<li>
+by <a href="/channel/UC9PBzalIcEQCsiIkq36PyUA" class="g-hovercard yt-uix-sessionlink yt-user-name  spf-link " data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CBEQwRs" dir="ltr" data-ytid="UC9PBzalIcEQCsiIkq36PyUA" data-name="">DigitalFoundry</a></li><li>6 days ago</li><li>1,426,536 views</li>    </ul>
+  </div>
+
+
+      <div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">
+        Many thanks to the guys at <b>GTA</b> Series Videos for providing the PS3 footage: <a href="https://www.youtube.com/user/GTASeriesVideos" target="_blank" title="https://www.youtube.com/user/GTASeriesVideos" rel="nofollow" dir="ltr" class="yt-uix-redirect-link">https://www.youtube.com/user/GTASeriesVideos</a> ...
+    </div>
+
+
+  <div class="yt-lockup-badges"><ul class="yt-badge-list "><li class="yt-badge-item"><span class="yt-badge " >New</span></li><li class="yt-badge-item"><span class="yt-badge " >HD</span></li></ul></div>
+
+  
+
+    </div>
+    
+  </li>
+
+
+
+        
+  
+
+
+
+
+    <li class="yt-lockup clearfix yt-uix-tile yt-lockup-video yt-lockup-tile"
+  >
+    <div class="yt-lockup-thumbnail"
+    >
+        <a href="/watch?v=hvoD7ehZPcM" class="ux-thumb-wrap yt-uix-sessionlink contains-addto  spf-link "  data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CBQQwBs">    <span class="video-thumb  yt-thumb yt-thumb-185"
+      >
+      <span class="yt-thumb-default">
+        <span class="yt-thumb-clip">
+          <img aria-hidden="true" alt="" src="//i1.ytimg.com/vi/hvoD7ehZPcM/mqdefault.jpg" width="185"  >
+          <span class="vertical-align"></span>
+        </span>
+      </span>
+    </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="hvoD7ehZPcM"><span class="yt-uix-button-content">  <img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later">
+ </span><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"></button>
+    <span class="video-time">1:01</span>
+</a>
+
+    </div>
+    <div class="yt-lockup-content">
+          <h3 class="yt-lockup-title"><a class="yt-uix-sessionlink yt-uix-tile-link  spf-link  yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="Grand Theft Auto V: The Official Trailer" data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CBMQvxs" href="/watch?v=hvoD7ehZPcM">Grand Theft Auto V: The Official Trailer</a></h3>
+
+  <div class="yt-lockup-meta">
+    <ul class="yt-lockup-meta-info">
+<li>
+by <a href="/channel/UC6VcWc1rAoWdBCM0JxrRQ3A" class="g-hovercard yt-uix-sessionlink yt-user-name  spf-link " data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CBUQwRs" dir="ltr" data-ytid="UC6VcWc1rAoWdBCM0JxrRQ3A" data-name="">Rockstar Games</a></li><li>9 months ago</li><li>8,021,815 views</li>    </ul>
+  </div>
+
+
+      <div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">
+        <b>Grand Theft Auto V</b> is coming September 17, 2013. Pre-order now and visit www.rockstargames.com/V for more details.
+    </div>
+
+
+  <div class="yt-lockup-badges"><ul class="yt-badge-list "><li class="yt-badge-item"><span class="yt-badge " >HD</span></li></ul></div>
+
+  
+
+    </div>
+    
+  </li>
+
+
+
+        
+  
+
+
+
+
+    <li class="yt-lockup clearfix yt-uix-tile yt-lockup-video yt-lockup-tile"
+  >
+    <div class="yt-lockup-thumbnail"
+    >
+        <a href="/watch?v=Bf38HiYPMiI" class="ux-thumb-wrap yt-uix-sessionlink contains-addto  spf-link "  data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CBgQwBs">    <span class="video-thumb  yt-thumb yt-thumb-185"
+      >
+      <span class="yt-thumb-default">
+        <span class="yt-thumb-clip">
+          <img aria-hidden="true" alt="" src="//i1.ytimg.com/vi/Bf38HiYPMiI/mqdefault.jpg" width="185"  >
+          <span class="vertical-align"></span>
+        </span>
+      </span>
+    </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="Bf38HiYPMiI"><span class="yt-uix-button-content">  <img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later">
+ </span><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"></button>
+    <span class="video-time">3:53</span>
+</a>
+
+    </div>
+    <div class="yt-lockup-content">
+          <h3 class="yt-lockup-title"><a class="yt-uix-sessionlink yt-uix-tile-link  spf-link  yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="Grand Theft Auto V: Michael. Franklin. Trevor." data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CBcQvxs" href="/watch?v=Bf38HiYPMiI">Grand Theft Auto V: Michael. Franklin. Trevor.</a></h3>
+
+  <div class="yt-lockup-meta">
+    <ul class="yt-lockup-meta-info">
+<li>
+by <a href="/channel/UC6VcWc1rAoWdBCM0JxrRQ3A" class="g-hovercard yt-uix-sessionlink yt-user-name  spf-link " data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CBkQwRs" dir="ltr" data-ytid="UC6VcWc1rAoWdBCM0JxrRQ3A" data-name="">Rockstar Games</a></li><li>1 year ago</li><li>9,279,686 views</li>    </ul>
+  </div>
+
+
+      <div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">
+        <b>Grand Theft Auto V</b> is coming September 17, 2013. Pre-order now and visit www.rockstargames.com/V for more details.
+    </div>
+
+
+  <div class="yt-lockup-badges"><ul class="yt-badge-list "><li class="yt-badge-item"><span class="yt-badge " >HD</span></li></ul></div>
+
+  
+
+    </div>
+    
+  </li>
+
+
+
+        
+  
+
+
+
+
+    <li class="yt-lockup clearfix yt-uix-tile yt-lockup-video yt-lockup-tile"
+  >
+    <div class="yt-lockup-thumbnail"
+    >
+        <a href="/watch?v=NtZ5oBWpO90" class="ux-thumb-wrap yt-uix-sessionlink contains-addto  spf-link "  data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CBwQwBs">    <span class="video-thumb  yt-thumb yt-thumb-185"
+      >
+      <span class="yt-thumb-default">
+        <span class="yt-thumb-clip">
+          <img aria-hidden="true" data-thumb="//i1.ytimg.com/vi/NtZ5oBWpO90/mqdefault.jpg" alt="" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="185"  >
+          <span class="vertical-align"></span>
+        </span>
+      </span>
+    </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="NtZ5oBWpO90"><span class="yt-uix-button-content">  <img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later">
+ </span><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"></button>
+    <span class="video-time">2:18</span>
+</a>
+
+    </div>
+    <div class="yt-lockup-content">
+          <h3 class="yt-lockup-title"><a class="yt-uix-sessionlink yt-uix-tile-link  spf-link  yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="GTA 5 - PS3 vs PS4 Trailer Comparison" data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CBsQvxs" href="/watch?v=NtZ5oBWpO90">GTA 5 - PS3 vs PS4 Trailer Comparison</a></h3>
+
+  <div class="yt-lockup-meta">
+    <ul class="yt-lockup-meta-info">
+<li>
+by <a href="/channel/UCuWcjpKbIDAbZfHoru1toFg" class="g-hovercard yt-uix-sessionlink yt-user-name  spf-link " data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CB0QwRs" dir="ltr" data-ytid="UCuWcjpKbIDAbZfHoru1toFg" data-name="">GTA Series Videos</a></li><li>1 week ago</li><li>774,111 views</li>    </ul>
+  </div>
+
+
+      <div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">
+        <b>GTA V Trailer</b> for next-gen platforms (PC, PS4 &amp; Xbox One) reconstructed and compared with the old-gen version of the game ...
+    </div>
+
+
+  <div class="yt-lockup-badges"><ul class="yt-badge-list "><li class="yt-badge-item"><span class="yt-badge " >HD</span></li></ul></div>
+
+  
+
+    </div>
+    
+  </li>
+
+
+
+        
+  
+
+
+
+
+    <li class="yt-lockup clearfix yt-uix-tile yt-lockup-video yt-lockup-tile"
+  >
+    <div class="yt-lockup-thumbnail"
+    >
+        <a href="/watch?v=3DBrG2YjqQA" class="ux-thumb-wrap yt-uix-sessionlink contains-addto  spf-link "  data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CCAQwBs">    <span class="video-thumb  yt-thumb yt-thumb-185"
+      >
+      <span class="yt-thumb-default">
+        <span class="yt-thumb-clip">
+          <img aria-hidden="true" data-thumb="//i1.ytimg.com/vi/3DBrG2YjqQA/mqdefault.jpg" alt="" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="185"  >
+          <span class="vertical-align"></span>
+        </span>
+      </span>
+    </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="3DBrG2YjqQA"><span class="yt-uix-button-content">  <img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later">
+ </span><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"></button>
+    <span class="video-time">1:18</span>
+</a>
+
+    </div>
+    <div class="yt-lockup-content">
+          <h3 class="yt-lockup-title"><a class="yt-uix-sessionlink yt-uix-tile-link  spf-link  yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="Grand Theft Auto V -- Coming for PlayStation®4, Xbox One and PC this Fall" data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CB8Qvxs" href="/watch?v=3DBrG2YjqQA">Grand Theft Auto V -- Coming for PlayStation®4, Xbox One and PC this Fall</a></h3>
+
+  <div class="yt-lockup-meta">
+    <ul class="yt-lockup-meta-info">
+<li>
+by <a href="/channel/UC6VcWc1rAoWdBCM0JxrRQ3A" class="g-hovercard yt-uix-sessionlink yt-user-name  spf-link " data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CCEQwRs" dir="ltr" data-ytid="UC6VcWc1rAoWdBCM0JxrRQ3A" data-name="">Rockstar Games</a></li><li>1 week ago</li><li>7,453,844 views</li>    </ul>
+  </div>
+
+
+      <div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">
+        The critically-acclaimed and record-breaking <b>Grand Theft Auto V</b> comes to a new generation this fall. <b>Grand Theft Auto V</b> for ...
+    </div>
+
+
+  <div class="yt-lockup-badges"><ul class="yt-badge-list "><li class="yt-badge-item"><span class="yt-badge " >HD</span></li></ul></div>
+
+  
+
+    </div>
+    
+  </li>
+
+
+
+        
+  
+
+
+
+
+    <li class="yt-lockup clearfix yt-uix-tile yt-lockup-video yt-lockup-tile"
+  >
+    <div class="yt-lockup-thumbnail"
+    >
+        <a href="/watch?v=Vzue74y7A84" class="ux-thumb-wrap yt-uix-sessionlink contains-addto  spf-link "  data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CCQQwBs">    <span class="video-thumb  yt-thumb yt-thumb-185"
+      >
+      <span class="yt-thumb-default">
+        <span class="yt-thumb-clip">
+          <img aria-hidden="true" data-thumb="//i1.ytimg.com/vi/Vzue74y7A84/mqdefault.jpg" alt="" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="185"  >
+          <span class="vertical-align"></span>
+        </span>
+      </span>
+    </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="Vzue74y7A84"><span class="yt-uix-button-content">  <img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later">
+ </span><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"></button>
+    <span class="video-time">1:51</span>
+</a>
+
+    </div>
+    <div class="yt-lockup-content">
+          <h3 class="yt-lockup-title"><a class="yt-uix-sessionlink yt-uix-tile-link  spf-link  yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="Grand Theft Auto V: Official Trailer #2" data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CCMQvxs" href="/watch?v=Vzue74y7A84">Grand Theft Auto V: Official Trailer #2</a></h3>
+
+  <div class="yt-lockup-meta">
+    <ul class="yt-lockup-meta-info">
+<li>
+by <a href="/channel/UC6VcWc1rAoWdBCM0JxrRQ3A" class="g-hovercard yt-uix-sessionlink yt-user-name  spf-link " data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CCUQwRs" dir="ltr" data-ytid="UC6VcWc1rAoWdBCM0JxrRQ3A" data-name="">Rockstar Games</a></li><li>1 year ago</li><li>21,988,082 views</li>    </ul>
+  </div>
+
+
+      <div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">
+        <b>Grand Theft Auto V</b> is coming September 17, 2013. Pre-order now and visit www.rockstargames.com/V for more details. Grand ...
+    </div>
+
+
+  <div class="yt-lockup-badges"><ul class="yt-badge-list "><li class="yt-badge-item"><span class="yt-badge " >HD</span></li></ul></div>
+
+  
+
+    </div>
+    
+  </li>
+
+
+
+        
+  
+
+
+
+
+    <li class="yt-lockup clearfix yt-uix-tile yt-lockup-video yt-lockup-tile"
+  >
+    <div class="yt-lockup-thumbnail"
+    >
+        <a href="/watch?v=jCW1vfWK7jY" class="ux-thumb-wrap yt-uix-sessionlink contains-addto  spf-link "  data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CCgQwBs">    <span class="video-thumb  yt-thumb yt-thumb-185"
+      >
+      <span class="yt-thumb-default">
+        <span class="yt-thumb-clip">
+          <img aria-hidden="true" data-thumb="//i1.ytimg.com/vi/jCW1vfWK7jY/mqdefault.jpg" alt="" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="185"  >
+          <span class="vertical-align"></span>
+        </span>
+      </span>
+    </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="jCW1vfWK7jY"><span class="yt-uix-button-content">  <img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later">
+ </span><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"></button>
+    <span class="video-time">1:18</span>
+</a>
+
+    </div>
+    <div class="yt-lockup-content">
+          <h3 class="yt-lockup-title"><a class="yt-uix-sessionlink yt-uix-tile-link  spf-link  yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="Grand Theft Auto 5 (PS4, Xbox One, PC Trailer)" data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CCcQvxs" href="/watch?v=jCW1vfWK7jY">Grand Theft Auto 5 (PS4, Xbox One, PC Trailer)</a></h3>
+
+  <div class="yt-lockup-meta">
+    <ul class="yt-lockup-meta-info">
+<li>
+by <a href="/channel/UCOappg295aGUvpfoFBNxrGw" class="g-hovercard yt-uix-sessionlink yt-user-name  spf-link " data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CCkQwRs" dir="ltr" data-ytid="UCOappg295aGUvpfoFBNxrGw" data-name="">Joystiq</a></li><li>1 week ago</li><li>57,818 views</li>    </ul>
+  </div>
+
+
+      <div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">
+        Developed by series creator Rockstar North, <b>Grand Theft Auto V</b> is the largest and most ambitious title in the series to date. » 
+    </div>
+
+
+  <div class="yt-lockup-badges"><ul class="yt-badge-list "><li class="yt-badge-item"><span class="yt-badge " >HD</span></li></ul></div>
+
+  
+
+    </div>
+    
+  </li>
+
+
+
+        
+  
+
+
+
+
+    <li class="yt-lockup clearfix yt-uix-tile yt-lockup-video yt-lockup-tile"
+  >
+    <div class="yt-lockup-thumbnail"
+    >
+        <a href="/watch?v=N-xHcvug3WI" class="ux-thumb-wrap yt-uix-sessionlink contains-addto  spf-link "  data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CCwQwBs">    <span class="video-thumb  yt-thumb yt-thumb-185"
+      >
+      <span class="yt-thumb-default">
+        <span class="yt-thumb-clip">
+          <img aria-hidden="true" data-thumb="//i1.ytimg.com/vi/N-xHcvug3WI/mqdefault.jpg" alt="" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="185"  >
+          <span class="vertical-align"></span>
+        </span>
+      </span>
+    </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="N-xHcvug3WI"><span class="yt-uix-button-content">  <img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later">
+ </span><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"></button>
+    <span class="video-time">4:51</span>
+</a>
+
+    </div>
+    <div class="yt-lockup-content">
+          <h3 class="yt-lockup-title"><a class="yt-uix-sessionlink yt-uix-tile-link  spf-link  yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="Grand Theft Auto V: Official Gameplay Video" data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CCsQvxs" href="/watch?v=N-xHcvug3WI">Grand Theft Auto V: Official Gameplay Video</a></h3>
+
+  <div class="yt-lockup-meta">
+    <ul class="yt-lockup-meta-info">
+<li>
+by <a href="/channel/UC6VcWc1rAoWdBCM0JxrRQ3A" class="g-hovercard yt-uix-sessionlink yt-user-name  spf-link " data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CC0QwRs" dir="ltr" data-ytid="UC6VcWc1rAoWdBCM0JxrRQ3A" data-name="">Rockstar Games</a></li><li>11 months ago</li><li>31,447,500 views</li>    </ul>
+  </div>
+
+
+      <div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">
+        <b>Grand Theft Auto V</b> is coming September 17, 2013. Pre-order now and visit www.rockstargames.com/V for more details.
+    </div>
+
+
+  <div class="yt-lockup-badges"><ul class="yt-badge-list "><li class="yt-badge-item"><span class="yt-badge " >HD</span></li></ul></div>
+
+  
+
+    </div>
+    
+  </li>
+
+
+
+        
+  
+
+
+
+
+    <li class="yt-lockup clearfix yt-uix-tile yt-lockup-video yt-lockup-tile"
+  >
+    <div class="yt-lockup-thumbnail"
+    >
+        <a href="/watch?v=R7MfArbdDaI" class="ux-thumb-wrap yt-uix-sessionlink contains-addto  spf-link "  data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CDAQwBs">    <span class="video-thumb  yt-thumb yt-thumb-185"
+      >
+      <span class="yt-thumb-default">
+        <span class="yt-thumb-clip">
+          <img aria-hidden="true" data-thumb="//i1.ytimg.com/vi/R7MfArbdDaI/mqdefault.jpg" alt="" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="185"  >
+          <span class="vertical-align"></span>
+        </span>
+      </span>
+    </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="R7MfArbdDaI"><span class="yt-uix-button-content">  <img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later">
+ </span><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"></button>
+    <span class="video-time">1:01</span>
+</a>
+
+    </div>
+    <div class="yt-lockup-content">
+          <h3 class="yt-lockup-title"><a class="yt-uix-sessionlink yt-uix-tile-link  spf-link  yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="GTA 5 The Cartel Series Trailer" data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CC8Qvxs" href="/watch?v=R7MfArbdDaI">GTA 5 The Cartel Series Trailer</a></h3>
+
+  <div class="yt-lockup-meta">
+    <ul class="yt-lockup-meta-info">
+<li>
+by <a href="/channel/UC_DgclLC9mCRVsUqi6opwnw" class="g-hovercard yt-uix-sessionlink yt-user-name  spf-link " data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CDEQwRs" dir="ltr" data-ytid="UC_DgclLC9mCRVsUqi6opwnw" data-name="">King- AlexHD</a></li><li>2 hours ago</li><li>20 views</li>    </ul>
+  </div>
+
+
+      <div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">
+        <b>GTA 5</b> The Cratel Series Episode 1 <b>trailer</b> version presented by King-AlexHD with Epic non stopping action. Comming Soon!
+    </div>
+
+
+  <div class="yt-lockup-badges"><ul class="yt-badge-list "><li class="yt-badge-item"><span class="yt-badge " >New</span></li><li class="yt-badge-item"><span class="yt-badge " >HD</span></li></ul></div>
+
+  
+
+    </div>
+    
+  </li>
+
+
+
+        
+  
+
+
+
+
+    <li class="yt-lockup clearfix yt-uix-tile yt-lockup-video yt-lockup-tile"
+  >
+    <div class="yt-lockup-thumbnail"
+    >
+        <a href="/watch?v=5j3GgTAbBpw" class="ux-thumb-wrap yt-uix-sessionlink contains-addto  spf-link "  data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CDQQwBs">    <span class="video-thumb  yt-thumb yt-thumb-185"
+      >
+      <span class="yt-thumb-default">
+        <span class="yt-thumb-clip">
+          <img aria-hidden="true" data-thumb="//i1.ytimg.com/vi/5j3GgTAbBpw/mqdefault.jpg" alt="" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="185"  >
+          <span class="vertical-align"></span>
+        </span>
+      </span>
+    </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="5j3GgTAbBpw"><span class="yt-uix-button-content">  <img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later">
+ </span><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"></button>
+    <span class="video-time">3:10</span>
+</a>
+
+    </div>
+    <div class="yt-lockup-content">
+          <h3 class="yt-lockup-title"><a class="yt-uix-sessionlink yt-uix-tile-link  spf-link  yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="Grand Theft Auto 5 Comparison PS4 vs PS3 (GTA 5 Next Gen Trailer Comparison)" data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CDMQvxs" href="/watch?v=5j3GgTAbBpw">Grand Theft Auto 5 Comparison PS4 vs PS3 (GTA 5 Next Gen Trailer Comparison)</a></h3>
+
+  <div class="yt-lockup-meta">
+    <ul class="yt-lockup-meta-info">
+<li>
+by <a href="/channel/UCns4T9U8VSIRovKa1a_r7rA" class="g-hovercard yt-uix-sessionlink yt-user-name  spf-link " data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CDUQwRs" dir="ltr" data-ytid="UCns4T9U8VSIRovKa1a_r7rA" data-name="">GameRiot</a></li><li>5 days ago</li><li>40,404 views</li>    </ul>
+  </div>
+
+
+      <div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">
+        <b>Grand Theft Auto 5 GTA 5</b> Comparison PS4 vs PS3 <b>trailer</b> next gen comparison - Hope you enjoy, Hit the like button if your excited ...
+    </div>
+
+
+  <div class="yt-lockup-badges"><ul class="yt-badge-list "><li class="yt-badge-item"><span class="yt-badge " >New</span></li><li class="yt-badge-item"><span class="yt-badge " >HD</span></li></ul></div>
+
+  
+
+    </div>
+    
+  </li>
+
+
+
+        
+  
+
+
+
+
+    <li class="yt-lockup clearfix yt-uix-tile yt-lockup-video yt-lockup-tile"
+  >
+    <div class="yt-lockup-thumbnail"
+    >
+        <a href="/watch?v=hz2hcrzVVvo" class="ux-thumb-wrap yt-uix-sessionlink contains-addto  spf-link "  data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CDgQwBs">    <span class="video-thumb  yt-thumb yt-thumb-185"
+      >
+      <span class="yt-thumb-default">
+        <span class="yt-thumb-clip">
+          <img aria-hidden="true" data-thumb="//i1.ytimg.com/vi/hz2hcrzVVvo/mqdefault.jpg" alt="" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="185"  >
+          <span class="vertical-align"></span>
+        </span>
+      </span>
+    </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="hz2hcrzVVvo"><span class="yt-uix-button-content">  <img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later">
+ </span><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"></button>
+    <span class="video-time">2:11</span>
+</a>
+
+    </div>
+    <div class="yt-lockup-content">
+          <h3 class="yt-lockup-title"><a class="yt-uix-sessionlink yt-uix-tile-link  spf-link  yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="Grand Theft Auto V: Alternative Launch Trailer" data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CDcQvxs" href="/watch?v=hz2hcrzVVvo">Grand Theft Auto V: Alternative Launch Trailer</a></h3>
+
+  <div class="yt-lockup-meta">
+    <ul class="yt-lockup-meta-info">
+<li>
+by <a href="/channel/UC8p-uPfLwR20W4fqRI6eQvA" class="g-hovercard yt-uix-sessionlink yt-user-name  spf-link " data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CDkQwRs" dir="ltr" data-ytid="UC8p-uPfLwR20W4fqRI6eQvA" data-name="">LukeRitson</a></li><li>2 months ago</li><li>106,742 views</li>    </ul>
+  </div>
+
+
+      <div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">
+        Ladies and Gentlemen. On the 13th April 2014, I will be running the London Marathon for Shelter, a great charity that puts a roof ...
+    </div>
+
+
+  <div class="yt-lockup-badges"><ul class="yt-badge-list "><li class="yt-badge-item"><span class="yt-badge " >HD</span></li></ul></div>
+
+  
+
+    </div>
+    
+  </li>
+
+
+
+        
+  
+
+
+
+
+    <li class="yt-lockup clearfix yt-uix-tile yt-lockup-video yt-lockup-tile"
+  >
+    <div class="yt-lockup-thumbnail"
+    >
+        <a href="/watch?v=EnGc3mPkZ38" class="ux-thumb-wrap yt-uix-sessionlink contains-addto  spf-link "  data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CDwQwBs">    <span class="video-thumb  yt-thumb yt-thumb-185"
+      >
+      <span class="yt-thumb-default">
+        <span class="yt-thumb-clip">
+          <img aria-hidden="true" data-thumb="//i1.ytimg.com/vi/EnGc3mPkZ38/mqdefault.jpg" alt="" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="185"  >
+          <span class="vertical-align"></span>
+        </span>
+      </span>
+    </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="EnGc3mPkZ38"><span class="yt-uix-button-content">  <img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later">
+ </span><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"></button>
+    <span class="video-time">3:16</span>
+</a>
+
+    </div>
+    <div class="yt-lockup-content">
+          <h3 class="yt-lockup-title"><a class="yt-uix-sessionlink yt-uix-tile-link  spf-link  yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="Grand Theft Auto V (Honest Game Trailers)" data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CDsQvxs" href="/watch?v=EnGc3mPkZ38">Grand Theft Auto V (Honest Game Trailers)</a></h3>
+
+  <div class="yt-lockup-meta">
+    <ul class="yt-lockup-meta-info">
+<li>
+by <a href="/channel/UCJ2ZDzMRgSrxmwphstrm8Ww" class="g-hovercard yt-uix-sessionlink yt-user-name  spf-link " data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CD0QwRs" dir="ltr" data-ytid="UCJ2ZDzMRgSrxmwphstrm8Ww" data-name="">Smosh Games</a></li><li>2 months ago</li><li>2,387,027 views</li>    </ul>
+  </div>
+
+
+      <div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">
+        Join us every other Saturday for more Honest Game <b>Trailers</b>! Subscribe to Smosh Games: <a href="http://smo.sh/SubscribeSmoshGames" target="_blank" title="http://smo.sh/SubscribeSmoshGames" rel="nofollow" dir="ltr" class="yt-uix-redirect-link">http://smo.sh/SubscribeSmoshGames</a> 
+    </div>
+
+
+  <div class="yt-lockup-badges"><ul class="yt-badge-list "><li class="yt-badge-item"><span class="yt-badge " >HD</span></li></ul></div>
+
+  
+
+    </div>
+    
+  </li>
+
+
+
+        
+  
+
+
+
+
+    <li class="yt-lockup clearfix yt-uix-tile yt-lockup-video yt-lockup-tile"
+  >
+    <div class="yt-lockup-thumbnail"
+    >
+        <a href="/watch?v=L1atcJIIyp0" class="ux-thumb-wrap yt-uix-sessionlink contains-addto  spf-link "  data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CEAQwBs">    <span class="video-thumb  yt-thumb yt-thumb-185"
+      >
+      <span class="yt-thumb-default">
+        <span class="yt-thumb-clip">
+          <img aria-hidden="true" data-thumb="//i1.ytimg.com/vi/L1atcJIIyp0/mqdefault.jpg" alt="" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="185"  >
+          <span class="vertical-align"></span>
+        </span>
+      </span>
+    </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="L1atcJIIyp0"><span class="yt-uix-button-content">  <img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later">
+ </span><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"></button>
+    <span class="video-time">4:26</span>
+</a>
+
+    </div>
+    <div class="yt-lockup-content">
+          <h3 class="yt-lockup-title"><a class="yt-uix-sessionlink yt-uix-tile-link  spf-link  yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="From Nowhere - Dan Croll [Baardsen Remix] [HD] [GTA V PC Trailer Song]" data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CD8Qvxs" href="/watch?v=L1atcJIIyp0">From Nowhere - Dan Croll [Baardsen Remix] [HD] [GTA V PC Trailer Song]</a></h3>
+
+  <div class="yt-lockup-meta">
+    <ul class="yt-lockup-meta-info">
+<li>
+by <a href="/channel/UC7Ltjhw82w49zk_r5rtoEIQ" class="g-hovercard yt-uix-sessionlink yt-user-name  spf-link " data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CEEQwRs" dir="ltr" data-ytid="UC7Ltjhw82w49zk_r5rtoEIQ" data-name="">SilverHawk</a></li><li>1 week ago</li><li>45,364 views</li>    </ul>
+  </div>
+
+
+      <div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">
+        Can we get 1k likes on this video ? :) Don&#39;t forget to watch in HD From Nowhere - Dan Croll (Baardsen Remix) HD 720p ...
+    </div>
+
+
+  <div class="yt-lockup-badges"><ul class="yt-badge-list "><li class="yt-badge-item"><span class="yt-badge " >HD</span></li></ul></div>
+
+  
+
+    </div>
+    
+  </li>
+
+
+
+        
+  
+
+
+
+
+    <li class="yt-lockup clearfix yt-uix-tile yt-lockup-video yt-lockup-tile"
+  >
+    <div class="yt-lockup-thumbnail"
+    >
+        <a href="/watch?v=bQJ7T2eLUD4" class="ux-thumb-wrap yt-uix-sessionlink contains-addto  spf-link "  data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CEQQwBs">    <span class="video-thumb  yt-thumb yt-thumb-185"
+      >
+      <span class="yt-thumb-default">
+        <span class="yt-thumb-clip">
+          <img aria-hidden="true" data-thumb="//i1.ytimg.com/vi/bQJ7T2eLUD4/mqdefault.jpg" alt="" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="185"  >
+          <span class="vertical-align"></span>
+        </span>
+      </span>
+    </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="bQJ7T2eLUD4"><span class="yt-uix-button-content">  <img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later">
+ </span><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"></button>
+    <span class="video-time">2:26</span>
+</a>
+
+    </div>
+    <div class="yt-lockup-content">
+          <h3 class="yt-lockup-title"><a class="yt-uix-sessionlink yt-uix-tile-link  spf-link  yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="GTA 6 - TRAILER GAMEPLAY" data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CEMQvxs" href="/watch?v=bQJ7T2eLUD4">GTA 6 - TRAILER GAMEPLAY</a></h3>
+
+  <div class="yt-lockup-meta">
+    <ul class="yt-lockup-meta-info">
+<li>
+by <a href="/channel/UCtQp_UhSIxb9gAMLzJEZT4Q" class="g-hovercard yt-uix-sessionlink yt-user-name  spf-link " data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CEUQwRs" dir="ltr" data-ytid="UCtQp_UhSIxb9gAMLzJEZT4Q" data-name="">GTAGrandTheftAuto5</a></li><li>4 days ago</li><li>13,503 views</li>    </ul>
+  </div>
+
+
+      <div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">
+        <b>GTA</b> 6 - <b>TRAILER</b> GAMEPLAY BETA FAN MADE! <b>GTA</b> 6 - Gameplay <b>Trailer GTA</b> 6 - FAN MADE <b>Trailer</b> • FACEBOOK: ...
+    </div>
+
+
+  <div class="yt-lockup-badges"><ul class="yt-badge-list "><li class="yt-badge-item"><span class="yt-badge " >New</span></li><li class="yt-badge-item"><span class="yt-badge " >HD</span></li></ul></div>
+
+  
+
+    </div>
+    
+  </li>
+
+
+
+        
+  
+
+
+
+
+    <li class="yt-lockup clearfix yt-uix-tile yt-lockup-video yt-lockup-tile"
+  >
+    <div class="yt-lockup-thumbnail"
+    >
+        <a href="/watch?v=Jalb8KiPaGw" class="ux-thumb-wrap yt-uix-sessionlink contains-addto  spf-link "  data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CEgQwBs">    <span class="video-thumb  yt-thumb yt-thumb-185"
+      >
+      <span class="yt-thumb-default">
+        <span class="yt-thumb-clip">
+          <img aria-hidden="true" data-thumb="//i1.ytimg.com/vi/Jalb8KiPaGw/mqdefault.jpg" alt="" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="185"  >
+          <span class="vertical-align"></span>
+        </span>
+      </span>
+    </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="Jalb8KiPaGw"><span class="yt-uix-button-content">  <img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later">
+ </span><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"></button>
+    <span class="video-time">5:28</span>
+</a>
+
+    </div>
+    <div class="yt-lockup-content">
+          <h3 class="yt-lockup-title"><a class="yt-uix-sessionlink yt-uix-tile-link  spf-link  yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="GTA 5 Glitches SOLO Insurance Glitch After Patch 1.14 Get Free Cars In GTA 5 Online (GTA V Gameplay)" data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CEcQvxs" href="/watch?v=Jalb8KiPaGw">GTA 5 Glitches SOLO Insurance Glitch After Patch 1.14 Get Free Cars In GTA 5 Online (GTA V Gameplay)</a></h3>
+
+  <div class="yt-lockup-meta">
+    <ul class="yt-lockup-meta-info">
+<li>
+by <a href="/channel/UC8PBdBWsM3q1MqHBXVUjGDg" class="g-hovercard yt-uix-sessionlink yt-user-name  spf-link " data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CEkQwRs" dir="ltr" data-ytid="UC8PBdBWsM3q1MqHBXVUjGDg" data-name="">iCrazyTeddy</a></li><li>1 day ago</li><li>43,545 views</li>    </ul>
+  </div>
+
+
+      <div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">
+        <b>GTA 5</b> SOLO Insurance Glitch After Patch 1.14 <b>GTA 5</b> Gameplay - <b>GTA 5</b> Online &amp; <b>GTA 5</b> Get Free Cars Glitch On <b>GTA 5</b> &amp; <b>GTA 5</b> ...
+    </div>
+
+
+  <div class="yt-lockup-badges"><ul class="yt-badge-list "><li class="yt-badge-item"><span class="yt-badge " >New</span></li><li class="yt-badge-item"><span class="yt-badge " >HD</span></li></ul></div>
+
+  
+
+    </div>
+    
+  </li>
+
+
+
+        
+  
+
+
+
+
+    <li class="yt-lockup clearfix yt-uix-tile yt-lockup-video yt-lockup-tile"
+  >
+    <div class="yt-lockup-thumbnail"
+    >
+        <a href="/watch?v=VG-OYRJNECM" class="ux-thumb-wrap yt-uix-sessionlink contains-addto  spf-link "  data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CEwQwBs">    <span class="video-thumb  yt-thumb yt-thumb-185"
+      >
+      <span class="yt-thumb-default">
+        <span class="yt-thumb-clip">
+          <img aria-hidden="true" data-thumb="//i1.ytimg.com/vi/VG-OYRJNECM/mqdefault.jpg" alt="" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="185"  >
+          <span class="vertical-align"></span>
+        </span>
+      </span>
+    </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="VG-OYRJNECM"><span class="yt-uix-button-content">  <img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later">
+ </span><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"></button>
+    <span class="video-time">1:18</span>
+</a>
+
+    </div>
+    <div class="yt-lockup-content">
+          <h3 class="yt-lockup-title"><a class="yt-uix-sessionlink yt-uix-tile-link  spf-link  yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="GTA 5 Trailer Comparision (PS4, PC, XBOX ONE vs XBOX360 &amp; PS3)" data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CEsQvxs" href="/watch?v=VG-OYRJNECM">GTA 5 Trailer Comparision (PS4, PC, XBOX ONE vs XBOX360 &amp; PS3)</a></h3>
+
+  <div class="yt-lockup-meta">
+    <ul class="yt-lockup-meta-info">
+<li>
+by <a href="/channel/UCR3QZi5NtkEwobs40cNnsFg" class="g-hovercard yt-uix-sessionlink yt-user-name  spf-link " data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CE0QwRs" dir="ltr" data-ytid="UCR3QZi5NtkEwobs40cNnsFg" data-name="">GTA5Videos</a></li><li>1 week ago</li><li>67,289 views</li>    </ul>
+  </div>
+
+
+      <div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">
+        Enjoyed this <b>GTA 5 Trailer</b> Comparision? <b>GTA 5 Trailer</b> on PS4 vs <b>GTA 5 Trailer</b> on XBOX360! Subscribe for <b>GTA 5 Trailer</b> ...
+    </div>
+
+
+  <div class="yt-lockup-badges"><ul class="yt-badge-list "><li class="yt-badge-item"><span class="yt-badge " >HD</span></li></ul></div>
+
+  
+
+    </div>
+    
+  </li>
+
+
+
+        
+  
+
+
+
+
+    <li class="yt-lockup clearfix yt-uix-tile yt-lockup-video yt-lockup-tile"
+  >
+    <div class="yt-lockup-thumbnail"
+    >
+        <a href="/watch?v=KxPtxnirSZQ" class="ux-thumb-wrap yt-uix-sessionlink contains-addto  spf-link "  data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CFAQwBs">    <span class="video-thumb  yt-thumb yt-thumb-185"
+      >
+      <span class="yt-thumb-default">
+        <span class="yt-thumb-clip">
+          <img aria-hidden="true" data-thumb="//i1.ytimg.com/vi/KxPtxnirSZQ/mqdefault.jpg" alt="" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="185"  >
+          <span class="vertical-align"></span>
+        </span>
+      </span>
+    </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="KxPtxnirSZQ"><span class="yt-uix-button-content">  <img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later">
+ </span><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"></button>
+    <span class="video-time">1:18</span>
+</a>
+
+    </div>
+    <div class="yt-lockup-content">
+          <h3 class="yt-lockup-title"><a class="yt-uix-sessionlink yt-uix-tile-link  spf-link  yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="Grand Theft Auto 5 -- Michael Trailer" data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CE8Qvxs" href="/watch?v=KxPtxnirSZQ">Grand Theft Auto 5 -- Michael Trailer</a></h3>
+
+  <div class="yt-lockup-meta">
+    <ul class="yt-lockup-meta-info">
+<li>
+by <a href="/channel/UCcMTZY1rFXO3Rj44D5VMyiw" class="g-hovercard yt-uix-sessionlink yt-user-name  spf-link " data-sessionlink="ei=bMynU4isKY62ugSonoIo&amp;ved=CFEQwRs" dir="ltr" data-ytid="UCcMTZY1rFXO3Rj44D5VMyiw" data-name="">Machinima</a></li><li>1 year ago</li><li>292,632 views</li>    </ul>
+  </div>
+
+
+      <div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">
+        Developed by series creator Rockstar North, <b>Grand Theft Auto V</b> is the largest and most ambitious title in the series to date. Set in ...
+    </div>
+
+
+  <div class="yt-lockup-badges"><ul class="yt-badge-list "><li class="yt-badge-item"><span class="yt-badge " >HD</span></li></ul></div>
+
+  
+
+    </div>
+    
+  </li>
+
+
+
+</ol>
+  </div>
+
+
+  
+
+    <div class="yt-uix-pager search-pager branded-page-box spf-link " role="navigation">
+
+          
+<a href="/results?search_query=Grand+Theft+Auto+V+trailer&amp;page=1" class="yt-uix-button  yt-uix-pager-button yt-uix-button-toggled yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default" data-sessionlink="ei=bMynU4isKY62ugSonoIo" data-link-type="num" data-page="1" aria-label="Go to page 1"><span class="yt-uix-button-content">1 </span></a>
+          
+<a href="/results?search_query=Grand+Theft+Auto+V+trailer&amp;page=2" class="yt-uix-button  yt-uix-pager-button yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default" data-sessionlink="ei=bMynU4isKY62ugSonoIo" data-link-type="num" data-page="2" aria-label="Go to page 2"><span class="yt-uix-button-content">2 </span></a>
+          
+<a href="/results?search_query=Grand+Theft+Auto+V+trailer&amp;page=3" class="yt-uix-button  yt-uix-pager-button yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default" data-sessionlink="ei=bMynU4isKY62ugSonoIo" data-link-type="num" data-page="3" aria-label="Go to page 3"><span class="yt-uix-button-content">3 </span></a>
+          
+<a href="/results?search_query=Grand+Theft+Auto+V+trailer&amp;page=4" class="yt-uix-button  yt-uix-pager-button yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default" data-sessionlink="ei=bMynU4isKY62ugSonoIo" data-link-type="num" data-page="4" aria-label="Go to page 4"><span class="yt-uix-button-content">4 </span></a>
+          
+<a href="/results?search_query=Grand+Theft+Auto+V+trailer&amp;page=5" class="yt-uix-button  yt-uix-pager-button yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default" data-sessionlink="ei=bMynU4isKY62ugSonoIo" data-link-type="num" data-page="5" aria-label="Go to page 5"><span class="yt-uix-button-content">5 </span></a>
+          
+<a href="/results?search_query=Grand+Theft+Auto+V+trailer&amp;page=6" class="yt-uix-button  yt-uix-pager-button yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default" data-sessionlink="ei=bMynU4isKY62ugSonoIo" data-link-type="num" data-page="6" aria-label="Go to page 6"><span class="yt-uix-button-content">6 </span></a>
+          
+<a href="/results?search_query=Grand+Theft+Auto+V+trailer&amp;page=7" class="yt-uix-button  yt-uix-pager-button yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default" data-sessionlink="ei=bMynU4isKY62ugSonoIo" data-link-type="num" data-page="7" aria-label="Go to page 7"><span class="yt-uix-button-content">7 </span></a>
+
+        
+<a href="/results?search_query=Grand+Theft+Auto+V+trailer&amp;page=2" class="yt-uix-button  yt-uix-pager-button yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default" data-sessionlink="ei=bMynU4isKY62ugSonoIo" data-link-type="next" data-page="2"><span class="yt-uix-button-content">Next » </span></a>
+    </div>
+
+
+
+  </div>
+
+          </div>
+        </div>
+          <div class="branded-page-v2-secondary-col">
+                <div id="search-secondary-col-contents">
+      
+        
+              
+
+
+  <div id="ad_creative_1" class="ad-div " style="z-index: 1">
+    <div id="ad_creative_div_1"></div>
+    <script>(function() {function tagMpuIframe() {var containerEl = document.getElementById('ad_creative_div_1');if (!containerEl) {return;}var iframeEl = document.createElement('iframe');var iframeSrc = 'https://ad.doubleclick.net/N4061/adi/com.ytsrc.enter/multimediacontent_videoclipsmoviedownloads;sz=300x250;tile=1;ssl=1;dc_yt=1;kga=-1;kgg=-1;klg=en;kmyd=ad_creative_1;ytexp=936112;ord=' +Math.floor(Math.random() * 10000000000000000) +'?';iframeEl.id = 'ad_creative_iframe_1';iframeEl.width = '300';iframeEl.height = '250';iframeEl.style.cssText = 'z-index:1;';iframeEl.scrolling = 'no';iframeEl.frameBorder = '0';containerEl.appendChild(iframeEl);iframeEl.src = iframeSrc;}tagMpuIframe();})();</script>
+      <div style="font-size: 10px; padding-top: 3px;" class="alignC grayText">
+          <a href="/t/ads_preferences">
+Advertisement
+          </a>
+      </div>
+<script>(function() {if (1193 > document.documentElement.clientWidth) {var adIframe = document.getElementById('ad_creative_iframe_1');adIframe.parentNode.removeChild(adIframe);}})();</script>  </div>
+
+
+    </div>
+
+          </div>
+      </div>
+    </div>
+  </div>
+</div></div></div></div>  <div id="footer-container" class="yt-base-gutter"><div id="footer"><div id="footer-main"><div id="footer-logo"><a href="/" title="YouTube home"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="YouTube home"></a></div>  <ul class="pickers yt-uix-button-group" data-button-toggle-group="optional">
+      <li>
+            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default yt-uix-button-has-icon" type="button" onclick=";return false;" id="yt-picker-language-button" data-button-action="yt.www.picker.load" data-picker-key="language" data-button-menu-id="arrow-display" data-picker-position="footer" data-button-toggle="true"><span class="yt-uix-button-icon-wrapper"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-icon yt-uix-button-icon-footer-language"></span><span class="yt-uix-button-content">  <span class="yt-picker-button-label">
+Language:
+  </span>
+  English
+ </span><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"></button>
+
+
+      </li>
+      <li>
+            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default" type="button" onclick=";return false;" id="yt-picker-country-button" data-button-action="yt.www.picker.load" data-picker-key="country" data-button-menu-id="arrow-display" data-picker-position="footer" data-button-toggle="true"><span class="yt-uix-button-content">  <span class="yt-picker-button-label">
+Country:
+  </span>
+  India
+ </span><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"></button>
+
+
+      </li>
+      <li>
+            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default" type="button" onclick=";return false;" id="yt-picker-safetymode-button" data-button-action="yt.www.picker.load" data-picker-key="safetymode" data-button-menu-id="arrow-display" data-picker-position="footer" data-button-toggle="true"><span class="yt-uix-button-content">  <span class="yt-picker-button-label">
+Safety:
+  </span>
+Off
+ </span><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"></button>
+
+
+      </li>
+  </ul>
+    <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default yt-uix-button-reverse yt-google-help-link inq-no-click " type="button" onclick=";return false;" data-ghelp-tracking-param="" id="google-help" data-ghelp-anchor="google-help"><span class="yt-uix-button-content">    <img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="questionmark">
+Help
+ </span></button>
+      <div id="yt-picker-language-footer" class="yt-picker" style="display: none">
+      <p class="yt-spinner">
+      <img src="https://s.ytim
