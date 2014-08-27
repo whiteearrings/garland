@@ -6,7 +6,7 @@ function gamepage($gname)
 			$dbhost = 'localhost';  
 			$m = new Mongo("mongodb://$dbhost");  
 			$db = $m->$dbname; 
-			$collection = $db->games9; 
+			$collection = $db->gamese; 
 		if($gname)
 		{
 		$present=array('name'=>$gname);

@@ -48,7 +48,7 @@ $obj=gamepage($name);
 				
 				<div class="panel panel-default">
 				  <div class="panel-body">
-					<p id="desmatter"> <?php echo $obj['desc']; ?> </p>
+					<p id="desmatter"> <?php echo $obj['content']; ?> </p>
 				  </div>
 				</div>
 				

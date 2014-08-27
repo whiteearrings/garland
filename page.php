@@ -2,6 +2,7 @@
 require "backphp.php";
 $name=$_GET['name'];
 $obj=gamepage($name);
+$to_print=array('Developer','Publisher','Genre','Characters','Released','Series','Prequel','Sequel','Distributor');
 //echo "<span >". json_encode ($obj) ."</span>";
 
 ?>
@@ -64,6 +65,7 @@ $obj=gamepage($name);
 					{
 						echo '<span class="label plat">'.$v.'</span>';
 					}
+					//echo $obj['Release date'];
 				?>
 			</div>
 			
@@ -77,10 +79,12 @@ $obj=gamepage($name);
 			<?php
 				foreach($obj as $k=>$v)
 				{
-					if($k != "name" && $k!="image" && $k!="video" && $k!="esrbrating" && $k!="Platform" && $k!="content"  && $k!="stars")
+					if(in_array($k,$to_print))
 					{
 						echo "<label class='info'> $k :  <span id='input-pub'><a href=''>".$obj[$k]."</a></span></label><br/>";
 					}
+					//echo $k."<br>";
+					//echo "<script>console.log('$k');</script>";
 				}
 				
 			?>

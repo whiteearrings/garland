@@ -1,5 +1,6 @@
 <?php
 	$gname=$_GET['name'];
+	echo $gname;
 	$gname=str_replace(" ","%20",$gname);
 ?>
 

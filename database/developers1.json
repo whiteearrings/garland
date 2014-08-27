@@ -1,0 +1,84 @@
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e00024c" }, "dname" : "", "devid" : "did1" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e00024d" }, "dname" : "Rare", "devid" : "did2" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e00024e" }, "dname" : "Ubisoft", "devid" : "did3" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e00024f" }, "dname" : "The Sims Studio", "devid" : "did4" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e000250" }, "dname" : "SCE London Studio[1]Playlogic Game Factory", "devid" : "did5" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e000251" }, "dname" : "Good Science Studio", "devid" : "did6" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e000252" }, "dname" : "Rebellion Oxford", "devid" : "did7" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e000253" }, "dname" : "Tango Gameworks", "devid" : "did8" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e000254" }, "dname" : "CI Games", "devid" : "did9" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e000255" }, "dname" : "The Creative Assembly", "devid" : "did10" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e000256" }, "dname" : "Firaxis Games", "devid" : "did11" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e000257" }, "dname" : "Dimps\\/Capcom", "devid" : "did12" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e000258" }, "dname" : "Slightly Mad StudiosStraight Right (iOS)", "devid" : "did13" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e000259" }, "dname" : "Visceral Games", "devid" : "did14" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e00025a" }, "dname" : "Eidos Montreal", "devid" : "did15" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e00025b" }, "dname" : "Danger Close Games", "devid" : "did16" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e00025c" }, "dname" : "Yuke'sVisual Concepts", "devid" : "did17" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e00025d" }, "dname" : "Rockstar NorthAdditional work by", "devid" : "did18" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e00025e" }, "dname" : "Team Bondi", "devid" : "did19" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e00025f" }, "dname" : "Ubisoft MontrealUbisoft QuebecUbisoft SingaporeUbisoft Casablanca", "devid" : "did20" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e000260" }, "dname" : "EA Canada", "devid" : "did21" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e000261" }, "dname" : "Infinity WardAdditional work by", "devid" : "did22" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e000262" }, "dname" : "IO Interactive", "devid" : "did23" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e000263" }, "dname" : "Ubisoft TorontoUbisoft MontrealUbisoft Shanghai", "devid" : "did24" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e000264" }, "dname" : "Rockstar San Diego", "devid" : "did25" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e000265" }, "dname" : "Ensemble Studios", "devid" : "did26" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e000266" }, "dname" : "Rockstar North", "devid" : "did27" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e000267" }, "dname" : "Rockstar Studios", "devid" : "did28" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e000268" }, "dname" : "DMA DesignAdditional work by", "devid" : "did29" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e000269" }, "dname" : "Naughty Dog", "devid" : "did30" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e00026a" }, "dname" : "Rockstar Leeds, Rockstar North", "devid" : "did31" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e00026b" }, "dname" : "Infinity WardSledgehammer GamesAdditional work by", "devid" : "did32" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e00026c" }, "dname" : "BioWare", "devid" : "did33" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e00026d" }, "dname" : "Rockstar Leeds,Rockstar North[1]", "devid" : "did34" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e00026e" }, "dname" : "EA Canada[1]", "devid" : "did35" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e00026f" }, "dname" : "EA CanadaExient Entertainment (DS)", "devid" : "did36" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e000270" }, "dname" : "EA Canada (Xbox 360, PS3)HB Studios (PC, PSP, PS2)[1]Sumo Digital (Nintendo Wii)Exient Entertainment (Nintendo DS)", "devid" : "did37" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e000271" }, "dname" : "EA CanadaExient Entertainment (DS)HB Studios (PS2 & PSP)", "devid" : "did38" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e000272" }, "dname" : "Ghost GamesAdditional work by", "devid" : "did39" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e000273" }, "dname" : "EA Black BoxEA Redwood Shores", "devid" : "did40" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e000274" }, "dname" : "EA Black BoxFirebrand Games (Wii\\/3DS)[1]", "devid" : "did41" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e000275" }, "dname" : "EA CanadaEA Black Box (PC)Rovio Mobile (Mobile)", "devid" : "did42" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e000276" }, "dname" : "EA CanadaPocketeers (GBA)", "devid" : "did43" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e000277" }, "dname" : "Criterion GamesFiremonkeys Studios (iOS\\/Android)[1]", "devid" : "did44" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e000278" }, "dname" : "EA Black Box", "devid" : "did45" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e000279" }, "dname" : "EA Black BoxExient Entertainment (DS)", "devid" : "did46" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e00027a" }, "dname" : "Slightly Mad StudiosEA Bright Light (PSP)", "devid" : "did47" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e00027b" }, "dname" : "Treyarch", "devid" : "did48" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e00027c" }, "dname" : "Treyarch (PC, PS3 & X360)Exakt Entertainment (Wii)Arkane Studios (Multiplayer)", "devid" : "did49" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e00027d" }, "dname" : "Infinity Ward", "devid" : "did50" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e00027e" }, "dname" : "Infinity WardAspyr (Mac conversion)Treyarch (Wii conversion)[1]", "devid" : "did51" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e00027f" }, "dname" : "nStigate Games[1][2]", "devid" : "did52" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e000280" }, "dname" : "TreyarchExakt Entertainment (Wii)", "devid" : "did53" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e000281" }, "dname" : "TreyarchGray Matter Interactive", "devid" : "did54" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e000282" }, "dname" : "Ubisoft MontrealUbisoft Casablanca", "devid" : "did55" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e000283" }, "dname" : "Ubisoft Montreal, Pipeworks Software", "devid" : "did56" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e000284" }, "dname" : "Ubisoft Montreal", "devid" : "did57" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e000285" }, "dname" : "Ubisoft SofiaUbisoft Montreal", "devid" : "did58" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e000286" }, "dname" : "Yuke's", "devid" : "did59" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e000287" }, "dname" : "Yuke'sTose Co., Ltd. (Nintendo DS)", "devid" : "did60" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e000288" }, "dname" : "THQ San Diego", "devid" : "did61" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e000289" }, "dname" : "Yuke'sTOSE (Nintendo DS)", "devid" : "did62" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e00028a" }, "dname" : "Ubisoft ParisUbisoft Red StormUbisoft RomaniaUbisoft Ukraine (PC version)", "devid" : "did63" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e00028b" }, "dname" : "Ubisoft Romania", "devid" : "did64" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e00028c" }, "dname" : "Ubisoft MontrealGameloft (iOS, Android & Windows Mobile)", "devid" : "did65" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e00028d" }, "dname" : "Ubisoft ParisRed Storm Entertainment (PS3\\/X360)High Voltage Software (PSP)Grin (PC)", "devid" : "did66" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e00028e" }, "dname" : "Gameloft (MOBILE, NGE & DS)Ubisoft Montreal", "devid" : "did67" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e00028f" }, "dname" : "Ubisoft Shanghai", "devid" : "did68" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e000290" }, "dname" : "Ubisoft ShanghaiUbisoft MilanUbisoft Annecy (GBA & GC)Gameloft (Mobile)", "devid" : "did69" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e000291" }, "dname" : "Xbox 360Ubisoft ParisRed Storm EntertainmentXboxUbisoft ShanghaiPlayStation 2Ubisoft ParisDarkworksMicrosoft WindowsGrin", "devid" : "did70" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e000292" }, "dname" : "Ubisoft Shanghai (X360, PC & PS3)Ubisoft Montreal and Ubisoft Milan (PS2, Xbox, GC & Wii)", "devid" : "did71" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e000293" }, "dname" : "Rocksteady Studios", "devid" : "did72" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e000294" }, "dname" : "Warner Bros. Games Montr\\u00c3\\u00a9al", "devid" : "did73" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e000295" }, "dname" : "Armature Studio", "devid" : "did74" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e000296" }, "dname" : "PES Productions", "devid" : "did75" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e000297" }, "dname" : "Quantic Dream", "devid" : "did76" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e000298" }, "dname" : "Volition, Inc.CD Projekt (Windows)", "devid" : "did77" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e000299" }, "dname" : "Epic GamesPeople Can Fly", "devid" : "did78" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e00029a" }, "dname" : "Sega", "devid" : "did79" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e00029b" }, "dname" : "Guerrilla Cambridge", "devid" : "did80" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e00029c" }, "dname" : "Criterion Games", "devid" : "did81" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e00029d" }, "dname" : "SCE Bend Studio[1]", "devid" : "did82" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e00029e" }, "dname" : "Relic Entertainment", "devid" : "did83" }
+{ "_id" : { "$oid" : "53d0dfe67b47b2840e00029f" }, "dname" : "2K Czech", "devid" : "did84" }

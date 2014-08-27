@@ -1,35 +1,35 @@
 <?php
 
 	 
-    set_time_limit(0);
- // ini_set('max_execution_time', 200);
+ //   set_time_limit(0);
+  ini_set('max_execution_time', 200);
 	$dbhost = 'localhost';  
 	$dbname = 'IGDB';  
 	$m = new Mongo("mongodb://$dbhost");  
 	$db = $m->$dbname;  
-	$collection = $db->gamesc;  
+	$collection = $db->devdb;  
 	$name=array();
 	$cont=array("contents");
 	$cont1=array($cont=>"exists");
-	$aa=array("cost"=>false,"flipkartcost"=>false,"type"=>false,"_id"=>false,$cont1=>false);
-//	{ qty: { $exists:
+	$aa=array("devid"=>false,cont1=>false);
 	$cursor = $collection->find($name,$aa);
 	foreach($cursor as $document) 
 	{
 		$name=json_encode($document);
-		//$name="{name:Grand Theft Auto V}";
+		//$name="{dname:Ubisoft}";
 		//$name="{name:Need For Speed: Most Wanted (2012)}";
 		
 		echo "1:".$name;
 		$redir=explode(':', $name);
 		print_r($redir);
-		if($redir[2])
+		/*if($redir[2])
 		{
 			//$name=substr($redir[2],0,-1);
 			$name=$redir[1].":".$redir[2];//substr($redir[1],0,-2).":".substr($redir[2],0,-1);
 			$na=$name;
 		}
 		else
+		{*/
 		{
 			$name=substr($redir[1],0,-1);
 			$na=$name;
@@ -87,7 +87,7 @@
 						$array[0]= $xPath->query("/html/body/div[3]/div[3]/div[4]/p[1]");
 						$array[1]= $xPath->query("/html/body/div[3]/div[3]/div[4]/p[2]");
 						$content="";
-						//print_r($array[0]);
+						print_r($array[0]);
 						for($i=0;$i<2;$i++)
 						{
 							foreach($array[$i] as $e) 
@@ -98,7 +98,7 @@
 						}
 						echo "Contents:".$content;
 					$toinsert['content']=$content;
-						for($i=3;$i<20;$i++)
+					/*	for($i=3;$i<20;$i++)
 						{
 							$arr= $xPath->query("/html/body/div[3]/div[3]/div[4]/table/tr[".$i."]");
 							foreach($arr as $e) 
@@ -120,7 +120,7 @@
 										$toinsert[$sep[0]]=$sep[1];
 									}
 							}
-						}
+						}*/
 					$num=0;
 					
 		//				print_r($toinsert);
@@ -128,7 +128,7 @@
 						$arr=array('name'=>$na);
 						$arr2=array('$set' => $toinsert);
 						print_r($toinsert);
-     				$cursor = $collection->update($arr,$arr2);
+     			//	$cursor = $collection->update($arr,$arr2);
 		
 					}	
 					
